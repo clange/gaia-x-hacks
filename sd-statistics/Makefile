@@ -4,8 +4,12 @@
 
 all: stats.json
 
+# count frequency of key usage
+stats.json: flat-entities.json
+	./count-frequency.jq $< > $@
+
 # flatten nested JSON
-stats.json: entities.json
+flat-entities.json: entities.json
 	./flatten-nested.jq $< > $@
 
 # extract all entities from the catalogue

@@ -10,4 +10,6 @@ This work is done in the scope of the extended specification of Self-Description
 * [`extract-entities.jq`](extract-entities.jq): extracts just the entity self-descriptions from the former JSON document
 * [`entities.json`](entities.json): the extracted entity self-descriptions
 * [`flatten-nested.jq`](flatten-nested.jq): flattens nested JSON structures
+* [`flat-entities.json`](flat-entities.json): the entity self-descriptions with flattened key paths
+* [`count-frequency.jq`](count-frequency.jq): counts the frequency of keys in objects
 * [`stats.json`](stats.json): the final output
