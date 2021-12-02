@@ -14,13 +14,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0xF3DC83CaBD406903F2fAe1Ef99958Eb0Ef2DF3D1",
-  "datePublished": "2021-12-02T13:27:48Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
-}
-{
   "author": "Martin van der Werff",
   "dateCreated": "2021-12-02T12:50:41Z",
   "datePublished": "2021-12-02T12:51:40Z",
@@ -34,13 +27,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Martin's test",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x4eaf878d5b1EdE7f434B6D2C00d9455F93cA7D0f",
-  "datePublished": "2021-12-02T12:50:41Z",
-  "name": "dataAssetAccess",
-  "timeout": 0
 }
 {
   "author": "Hackathon Gaiax Attendant",
@@ -58,13 +44,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0xF3DC83CaBD406903F2fAe1Ef99958Eb0Ef2DF3D1",
-  "datePublished": "2021-12-02T11:08:35Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
-}
-{
   "author": "Organization XY",
   "dateCreated": "2021-12-02T11:07:55Z",
   "datePublished": "2021-12-02T11:08:50Z",
@@ -78,13 +57,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Gaia-X Test 02/12/2021",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x66C187583dE24c38eE5D9b7D3a93cB162D8d914d",
-  "datePublished": "2021-12-02T11:07:55Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
 }
 {
   "author": "Simple Jo",
@@ -102,26 +74,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x44C34FbBB727bDC648E65feCfF3FB9D4c85f1fe4",
-  "datePublished": "2021-12-02T11:02:02Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:55D7212b58a04D8D24a2B302D749ADEF83B4a7d3",
-        "filesChecksum": "824df2b63bb3d1b135d7d3f6bd5352e1c3c152159201385ad77418468ce989d1"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 2630000
-}
-{
   "author": "Leeeeeeeroy_Jenkins",
   "dateCreated": "2021-12-02T11:01:02Z",
   "datePublished": "2021-12-02T11:28:29Z",
@@ -135,13 +87,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "LH Test",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0xe386780c67080F1d74c0B3ab310EBE0E53B8B889",
-  "datePublished": "2021-12-02T11:01:02Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
 }
 {
   "author": "VF demo",
@@ -159,13 +104,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x917eB668d09E9Bb126B169E2D579E7fC3D55f0Dc",
-  "datePublished": "2021-12-02T11:00:23Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
-}
-{
   "author": "3141592",
   "dateCreated": "2021-12-02T11:00:43Z",
   "datePublished": "2021-12-02T11:01:18Z",
@@ -179,13 +117,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "test day1 tutorial ",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x54d566D34a1Fe85D24D758b660377A9424fbe14c",
-  "datePublished": "2021-12-02T11:00:43Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
 }
 {
   "author": "TNO",
@@ -203,13 +134,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x050163b5C2de1082e98f174263092EB3311CDF12",
-  "datePublished": "2021-12-02T11:00:11Z",
-  "name": "dataAssetAccess",
-  "timeout": 604800
-}
-{
   "author": "Stefan's Example Organisation",
   "dateCreated": "2021-12-02T10:59:07Z",
   "datePublished": "2021-12-02T11:00:59Z",
@@ -223,13 +147,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Stefan's Demonstrator Data – GAIA-X Hackathon #2",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0xB99546b19cc43074db9A8b0DAa33D9fC2626e148",
-  "datePublished": "2021-12-02T10:59:07Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
 }
 {
   "author": "3141592",
@@ -247,13 +164,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x54d566D34a1Fe85D24D758b660377A9424fbe14c",
-  "datePublished": "2021-12-02T11:00:19Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
-}
-{
   "author": "deltaDAO AG Demonstrator",
   "dateCreated": "2021-12-02T11:00:09Z",
   "datePublished": "2021-12-02T11:00:57Z",
@@ -269,13 +179,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x4C84a36fCDb7Bc750294A7f3B5ad5CA8F74C4A52",
-  "datePublished": "2021-12-02T11:00:09Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
-}
-{
   "author": "Atos SE",
   "dateCreated": "2021-12-01T20:53:30Z",
   "datePublished": "2021-12-01T20:56:10Z",
@@ -289,26 +192,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Dataset)",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x943CaA8afCAdd2F64a7cE9E53A91d5ea0BEb40c1",
-  "datePublished": "2021-12-01T20:53:30Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "73574277eab6cfe3a4eb07099f538ff37b1ca6dd85fa409f6e8852a501206519",
-        "did": "did:op:aA726dE2c22dA84B36eC36d4ab4AB26702aD9666",
-        "filesChecksum": "496d36b99d77735f1d0335966e5eb201ba611630acb9200a45b0e833fe94ad40"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -336,20 +219,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x943CaA8afCAdd2F64a7cE9E53A91d5ea0BEb40c1",
-  "datePublished": "2021-12-01T20:51:45Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
-}
-{
   "algorithm": {
     "container": {
       "entrypoint": "./docker-entrypoint.sh",
@@ -373,20 +242,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "FULL - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Algorithm)",
   "type": "algorithm"
-}
-{
-  "cost": "1",
-  "creator": "0x943CaA8afCAdd2F64a7cE9E53A91d5ea0BEb40c1",
-  "datePublished": "2021-12-01T18:24:02Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -414,20 +269,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x943CaA8afCAdd2F64a7cE9E53A91d5ea0BEb40c1",
-  "datePublished": "2021-12-01T18:19:42Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
-}
-{
   "author": "Atos SE",
   "dateCreated": "2021-12-01T18:13:12Z",
   "datePublished": "2021-12-01T18:33:47Z",
@@ -441,31 +282,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Dataset)",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x943CaA8afCAdd2F64a7cE9E53A91d5ea0BEb40c1",
-  "datePublished": "2021-12-01T18:13:12Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8929aae8bf699603460cd03c7503121606011a737c2024a8b0c3168f22626c4f",
-        "did": "did:op:7f51d0980F06955954e309288349c0F187588F75",
-        "filesChecksum": "ea7e16637ccbcb5bd6ca33751b60909dec5e24d0bb548913971c9156f66773f9"
-      },
-      {
-        "containerSectionChecksum": "73574277eab6cfe3a4eb07099f538ff37b1ca6dd85fa409f6e8852a501206519",
-        "did": "did:op:11250764A3BDf5f146f9E30fC4BaBF7B9c91675d",
-        "filesChecksum": "2d89af3630330ecf123e61926098f8124ecfa1932fb2d3691126f0714067297d"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -493,20 +309,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-12-01T17:45:53Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-12-01T17:42:21Z",
   "datePublished": "2021-12-01T17:48:53Z",
@@ -520,26 +322,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Provider test",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-12-01T17:42:21Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "73574277eab6cfe3a4eb07099f538ff37b1ca6dd85fa409f6e8852a501206519",
-        "did": "did:op:92dF844b3db782741D4E15c01a35bd8411191EB2",
-        "filesChecksum": "9f94c0b34c18b6ffa75459480d7758b4d5fbf10676dab66c4857b56e54467622"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -567,20 +349,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-12-01T17:18:47Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-12-01T17:11:34Z",
   "datePublished": "2021-12-01T17:23:50Z",
@@ -594,36 +362,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Test Dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x3c0F6a52c84A79eBC52C56Ff8C029a30F929C344",
-  "datePublished": "2021-12-01T17:11:34Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "73574277eab6cfe3a4eb07099f538ff37b1ca6dd85fa409f6e8852a501206519",
-        "did": "did:op:3Cd7022bde756D7906Adcc64D4031947d8254ba4",
-        "filesChecksum": "ad98a577b8c69d687039d3d3ebc49fa4a56c9f4265534aae0ebec8aa139c18fd"
-      },
-      {
-        "containerSectionChecksum": "8929aae8bf699603460cd03c7503121606011a737c2024a8b0c3168f22626c4f",
-        "did": "did:op:9e8a37f8c69dbd267262D081A0d4c6D85688A11A",
-        "filesChecksum": "9aa34cb6d194e3946e5d2aad59e53bd5aad070a490b34651111e6e8b647fb694"
-      },
-      {
-        "containerSectionChecksum": "6a6c59779cd3ef81b5cd410d59b65fdf3eaa70171a4399b8e8259f8da563b08b",
-        "did": "did:op:057BbA60d6ACFe8f01B9812b4F2faE0Da62FCEb0",
-        "filesChecksum": "ec2d4ed9d6b0253523d94210c5df365c2c6fbebe81284222ede1c8536e1e6442"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -651,20 +389,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x330Ab52D4253261F3677B6F425E2B6Ab8264e447",
-  "datePublished": "2021-12-01T13:19:19Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-12-01T13:14:08Z",
   "datePublished": "2021-12-01T14:52:59Z",
@@ -678,26 +402,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Foreverontheblockchain Dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x330Ab52D4253261F3677B6F425E2B6Ab8264e447",
-  "datePublished": "2021-12-01T13:14:08Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "fddaf1fff156a313f241ca5a0ca1a1b6682346aaa706bd5ccf383cd287ad9099",
-        "did": "did:op:0341b42ff77c65FBe46C64d9A0D65694B8FAc2D9",
-        "filesChecksum": "072046127b71f42f145473857a4b26cabb84001df1d3c6ac49a2022d89310cc7"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -725,20 +429,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x3c0F6a52c84A79eBC52C56Ff8C029a30F929C344",
-  "datePublished": "2021-12-01T13:04:06Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-12-01T12:58:02Z",
   "datePublished": "2021-12-01T16:11:09Z",
@@ -752,26 +442,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Yolov5 Dataset examples",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x3c0F6a52c84A79eBC52C56Ff8C029a30F929C344",
-  "datePublished": "2021-12-01T12:58:02Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8765e0992d6afd62afd50e09e9003a0b12c17d089679e6cac618ae2ed0b26003",
-        "did": "did:op:f8aa4bc71Db90f0236411950Db1D07FcB049F59F",
-        "filesChecksum": "a81f3b08c73c1dfc5763a879e2acb1c793bf2da9ca5daf78b46cf2efb671d1bf"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -799,20 +469,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x943CaA8afCAdd2F64a7cE9E53A91d5ea0BEb40c1",
-  "datePublished": "2021-12-01T12:43:42Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
-}
-{
   "algorithm": {
     "container": {
       "entrypoint": "./docker-entrypoint.sh",
@@ -838,20 +494,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x943CaA8afCAdd2F64a7cE9E53A91d5ea0BEb40c1",
-  "datePublished": "2021-12-01T12:34:27Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-12-01T12:29:53Z",
   "datePublished": "2021-12-01T16:19:53Z",
@@ -865,31 +507,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Data Fusion Dataset - Copernicus Sentinel-1 SLC IW and Sentinel 2 L2A ",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x943CaA8afCAdd2F64a7cE9E53A91d5ea0BEb40c1",
-  "datePublished": "2021-12-01T12:29:53Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8929aae8bf699603460cd03c7503121606011a737c2024a8b0c3168f22626c4f",
-        "did": "did:op:9e8a37f8c69dbd267262D081A0d4c6D85688A11A",
-        "filesChecksum": "9aa34cb6d194e3946e5d2aad59e53bd5aad070a490b34651111e6e8b647fb694"
-      },
-      {
-        "containerSectionChecksum": "73574277eab6cfe3a4eb07099f538ff37b1ca6dd85fa409f6e8852a501206519",
-        "did": "did:op:3Cd7022bde756D7906Adcc64D4031947d8254ba4",
-        "filesChecksum": "ad98a577b8c69d687039d3d3ebc49fa4a56c9f4265534aae0ebec8aa139c18fd"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "author": "Jordi Gené-Mola; Ricardo Sanz-Cortiella; Joan R. Rosell-Polo; Alexandre Escolà; Eduard Gregorio",
@@ -907,20 +524,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x4cF0A8976397e450bA0a0846540707DA87212E17",
-  "datePublished": "2021-12-01T12:08:56Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 31556952
-}
-{
   "author": "testAuthor",
   "dateCreated": "2021-11-29T16:25:05Z",
   "datePublished": "2021-11-29T16:25:43Z",
@@ -934,13 +537,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Test Science Dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x9c26685b6E8e2997d9aAf3f1a642f1b1b3dB9580",
-  "datePublished": "2021-11-29T16:25:05Z",
-  "name": "dataAssetAccess",
-  "timeout": 0
 }
 {
   "author": "testAuthor",
@@ -958,13 +554,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x9c26685b6E8e2997d9aAf3f1a642f1b1b3dB9580",
-  "datePublished": "2021-11-29T16:15:43Z",
-  "name": "dataAssetAccess",
-  "timeout": 0
-}
-{
   "author": "safeFBDC",
   "dateCreated": "2021-11-25T18:26:35Z",
   "datePublished": "2021-12-02T00:22:47Z",
@@ -980,26 +569,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "safeFBDC - Pooled Dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x0aec046a558F13Ff18aAEc5E6f76084185358cdf",
-  "datePublished": "2021-11-25T18:26:35Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "270bbdabf474f35d6bb4efb236ae25fcd6268e05ff87a2e9d81f69e72e41ae41",
-        "did": "did:op:B7c8e6e01327DC39ca24E1CE151f35CB8D47Cc15",
-        "filesChecksum": "8f498960539095ec0d7ba570a3aa4def52d3533053a115ab4472d98ae4a070a0"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 604800
 }
 {
   "algorithm": {
@@ -1029,20 +598,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x0aec046a558F13Ff18aAEc5E6f76084185358cdf",
-  "datePublished": "2021-11-25T18:21:46Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "algorithm": {
     "container": {
       "entrypoint": "./docker-entrypoint.sh",
@@ -1070,20 +625,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x0aec046a558F13Ff18aAEc5E6f76084185358cdf",
-  "datePublished": "2021-11-25T17:33:48Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Bank B",
   "dateCreated": "2021-11-25T16:42:08Z",
   "datePublished": "2021-12-02T00:16:17Z",
@@ -1099,26 +640,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Bank B - Financial Dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x2b92BF0496B7B41ea2d723325DDE96651795c784",
-  "datePublished": "2021-11-25T16:42:08Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "5e80403b5ce1474f26098ad7b791312315e00cf76d56932a1cc4f97b255f4032",
-        "did": "did:op:b9D7177e3726c728B8C608201737E04164b7f3f0",
-        "filesChecksum": "8ad2d6782db69f77d3f11541cacd8a9f2cb2158959d1a6d015b80e28e2e30cfb"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 31556952
 }
 {
   "author": "Bank A",
@@ -1138,26 +659,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0xf596D17C4a3A5c92c4721627B9e5E5064651BF46",
-  "datePublished": "2021-11-25T16:27:03Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "5e80403b5ce1474f26098ad7b791312315e00cf76d56932a1cc4f97b255f4032",
-        "did": "did:op:b9D7177e3726c728B8C608201737E04164b7f3f0",
-        "filesChecksum": "8ad2d6782db69f77d3f11541cacd8a9f2cb2158959d1a6d015b80e28e2e30cfb"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 31556952
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-25T16:23:17Z",
   "datePublished": "2021-11-25T16:23:48Z",
@@ -1173,20 +674,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Test Bank A",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-25T16:23:17Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 31556952
 }
 {
   "author": "Test Author",
@@ -1206,20 +693,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-25T16:21:05Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 31556952
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-25T16:18:34Z",
   "datePublished": "2021-11-25T16:19:10Z",
@@ -1237,20 +710,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-25T16:18:34Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 31556952
-}
-{
   "author": "Test",
   "dateCreated": "2021-11-23T17:27:06Z",
   "datePublished": "2021-11-23T17:31:05Z",
@@ -1266,20 +725,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x9F905D29895C5863c9F6864188f68caC44B428A7",
-  "datePublished": "2021-11-23T17:27:06Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": true,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 2630000
-}
-{
   "author": "Test",
   "dateCreated": "2021-11-23T17:25:36Z",
   "datePublished": "2021-11-23T17:26:22Z",
@@ -1293,20 +738,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "CTD Test",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x9F905D29895C5863c9F6864188f68caC44B428A7",
-  "datePublished": "2021-11-23T17:25:36Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 2630000
 }
 {
   "author": "All",
@@ -1327,13 +758,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x790E7D119765e6c9B6765cCd83B5F20ddECf536f",
-  "datePublished": "2021-11-23T14:38:20Z",
-  "name": "dataAssetAccess",
-  "timeout": 0
-}
-{
   "author": "mr. test",
   "dateCreated": "2021-11-20T12:19:53Z",
   "datePublished": "2021-11-20T15:45:47Z",
@@ -1349,26 +773,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x88C60a9A46a5f12446bD3095986C60f92Dfe0Fc6",
-  "datePublished": "2021-11-20T12:19:53Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:b3F2d84acEfb6aB4e850cb66dA2D9008E3f1A643",
-        "filesChecksum": "e202e49a6e18168c4e6e21a563eb4ebd02cb0d3c79e417164f263130bcce962f"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 604800
-}
-{
   "author": "Jendo Kahn",
   "dateCreated": "2021-11-19T18:25:50Z",
   "datePublished": "2021-11-19T18:26:12Z",
@@ -1382,13 +786,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Nope",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0xdda8183F64aAF636b97877737F0013D85400D722",
-  "datePublished": "2021-11-19T18:25:50Z",
-  "name": "dataAssetAccess",
-  "timeout": 0
 }
 {
   "algorithm": {
@@ -1418,20 +815,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-17T14:58:27Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-17T13:30:07Z",
   "datePublished": "2021-11-17T13:39:02Z",
@@ -1447,26 +830,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "weather Data Sample Hashed",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-17T13:30:07Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "5cc791f48a4f3aadb1e12a0d8f5066fb4f5625bc75dd5a42d4ba22320b7f4f7d",
-        "did": "did:op:cd3737badC492e2a243037c69733d0Af1Ec5B450",
-        "filesChecksum": "9f78d2e3a63af6bc7045a9e91e308fc2a742a3d74fb10021935b17b16b812319"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "author": "Test Author",
@@ -1486,20 +849,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-17T11:41:38Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": true,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
-}
-{
   "author": "testAuthor",
   "dateCreated": "2021-11-17T03:55:19Z",
   "datePublished": "2021-11-17T03:56:18Z",
@@ -1515,20 +864,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Test: Weather Dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x9c26685b6E8e2997d9aAf3f1a642f1b1b3dB9580",
-  "datePublished": "2021-11-17T03:55:19Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 604800
 }
 {
   "algorithm": {
@@ -1556,20 +891,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-16T23:48:32Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-16T23:19:46Z",
   "datePublished": "2021-11-16T23:21:53Z",
@@ -1583,20 +904,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Sample Weather Data",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-16T23:19:46Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": true,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -1624,20 +931,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-16T23:15:24Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "algorithm": {
     "container": {
       "entrypoint": "node $ALGO",
@@ -1663,20 +956,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-16T23:09:41Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-16T22:26:06Z",
   "datePublished": "2021-11-17T20:23:37Z",
@@ -1692,20 +971,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-16T22:26:06Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": true,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-16T22:16:22Z",
   "datePublished": "2021-11-17T22:28:22Z",
@@ -1719,26 +984,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Example 1",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-16T22:16:22Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:21d825CEc2240E85bbA5B1DB2fbFB166c0D356F0",
-        "filesChecksum": "b2142585e263330bc9a2103dee26bec8088cea82f16b185d4efba21e43c8f759"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -1766,20 +1011,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-16T17:12:11Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-15T15:52:54Z",
   "datePublished": "2021-11-15T15:54:48Z",
@@ -1795,13 +1026,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-15T15:52:54Z",
-  "name": "dataAssetAccess",
-  "timeout": 0
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-15T14:46:54Z",
   "datePublished": "2021-11-17T15:02:04Z",
@@ -1815,41 +1039,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Test",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-15T14:46:54Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:85E0aF3A67426b398198E2DaeA40b474Fa99E94C",
-        "filesChecksum": "583a453faacccdbd32ff5e94cb44fbe3360a4fe624a94de2ccec25d344866d05"
-      },
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:a79a3D762E3b13646FEfFa410b35a7605C5c353f",
-        "filesChecksum": "eed4e7e218c7f9df426eb380f0f9f6355c02f72f48760ee4a2003052769cafa7"
-      },
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:21d825CEc2240E85bbA5B1DB2fbFB166c0D356F0",
-        "filesChecksum": "b2142585e263330bc9a2103dee26bec8088cea82f16b185d4efba21e43c8f759"
-      },
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:EC0C46e218E4f63997aB7E12E78ec89c94602435",
-        "filesChecksum": "6a3f81e25788547891fef743558a0fb26e946fb418d49e39668deef51577f6cf"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 604800
 }
 {
   "algorithm": {
@@ -1877,20 +1066,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-15T14:39:15Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "algorithm": {
     "container": {
       "entrypoint": "node $ALGO",
@@ -1914,20 +1089,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Multi Provider Algorithm Test",
   "type": "algorithm"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-15T14:31:32Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
 }
 {
   "algorithm": {
@@ -1955,20 +1116,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-15T14:23:00Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 604800
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-15T13:05:19Z",
   "datePublished": "2021-11-16T20:03:30Z",
@@ -1982,36 +1129,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Test multi Provider",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-15T13:05:19Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:ab8dF0e49aC1e5A426E6C9b5D723eeCf67029B8D",
-        "filesChecksum": "a85f4d66bc2f57454001ee89ce52ca0080311311a8000329b678bbb708214597"
-      },
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:b3F2d84acEfb6aB4e850cb66dA2D9008E3f1A643",
-        "filesChecksum": "e202e49a6e18168c4e6e21a563eb4ebd02cb0d3c79e417164f263130bcce962f"
-      },
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:55D7212b58a04D8D24a2B302D749ADEF83B4a7d3",
-        "filesChecksum": "824df2b63bb3d1b135d7d3f6bd5352e1c3c152159201385ad77418468ce989d1"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 604800
 }
 {
   "algorithm": {
@@ -2039,20 +1156,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x9c26685b6E8e2997d9aAf3f1a642f1b1b3dB9580",
-  "datePublished": "2021-11-13T19:11:58Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-13T15:18:31Z",
   "datePublished": "2021-11-17T14:52:12Z",
@@ -2066,36 +1169,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Sample Dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-13T15:18:31Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:493C2473A18d8EA8459DAe8a1C1c46f1d7dD73A4",
-        "filesChecksum": "24a2f648df4d604962f1c5b10cb5ee5d6b44bfb31d04f92d425b61b7d8c81b13"
-      },
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:f380882C04e5605E1a516c32F884c4C5850d96f8",
-        "filesChecksum": "50f36082f0a9bb299445e91387d5e99b4b4953e67608bba7b011dc92f437809d"
-      },
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:fE871307b3e58cDe4e45CC17183aE3b84a25A320",
-        "filesChecksum": "35f7f7d73c2d161faa6658830e019b98e0a758d6025c06bc9cf0d9fb659bfc65"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 604800
 }
 {
   "algorithm": {
@@ -2123,20 +1196,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-13T15:09:48Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "algorithm": {
     "container": {
       "entrypoint": "node $ALGO",
@@ -2160,13 +1219,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Broken Test",
   "type": "algorithm"
-}
-{
-  "cost": "1",
-  "creator": "0x9c26685b6E8e2997d9aAf3f1a642f1b1b3dB9580",
-  "datePublished": "2021-11-12T20:31:30Z",
-  "name": "dataAssetAccess",
-  "timeout": 0
 }
 {
   "algorithm": {
@@ -2194,13 +1246,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x9c26685b6E8e2997d9aAf3f1a642f1b1b3dB9580",
-  "datePublished": "2021-11-12T19:25:27Z",
-  "name": "dataAssetAccess",
-  "timeout": 0
-}
-{
   "author": "testAuthor",
   "dateCreated": "2021-11-12T19:22:38Z",
   "datePublished": "2021-11-15T04:46:30Z",
@@ -2214,20 +1259,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Weather Sample Data",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x9c26685b6E8e2997d9aAf3f1a642f1b1b3dB9580",
-  "datePublished": "2021-11-12T19:22:38Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": true,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 2630000
 }
 {
   "author": "testAuthor",
@@ -2245,20 +1276,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x4C84a36fCDb7Bc750294A7f3B5ad5CA8F74C4A52",
-  "datePublished": "2021-11-12T19:20:05Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 31556952
-}
-{
   "author": "Kiu",
   "dateCreated": "2021-11-12T11:35:59Z",
   "datePublished": "2021-11-12T11:36:57Z",
@@ -2272,13 +1289,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Wether Test",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x44C34FbBB727bDC648E65feCfF3FB9D4c85f1fe4",
-  "datePublished": "2021-11-12T11:35:59Z",
-  "name": "dataAssetAccess",
-  "timeout": 604800
 }
 {
   "algorithm": {
@@ -2306,20 +1316,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-10T13:44:06Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-11-10T13:42:18Z",
   "datePublished": "2021-11-10T13:46:34Z",
@@ -2333,26 +1329,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Rscript Dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-10T13:42:18Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "fddaf1fff156a313f241ca5a0ca1a1b6682346aaa706bd5ccf383cd287ad9099",
-        "did": "did:op:bc785B2d948E05d33030E922B95c53ED47331d4B",
-        "filesChecksum": "bcb59f5c98c7bbad856b923ba725103a8b59fc8b41f1fb43784c4d26ea46cf8e"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 31556952
 }
 {
   "algorithm": {
@@ -2380,20 +1356,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-09T23:32:58Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 2630000
-}
-{
   "author": "test author",
   "dateCreated": "2021-11-09T23:28:48Z",
   "datePublished": "2021-11-18T00:19:52Z",
@@ -2407,26 +1369,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "🖼 Image Classification Sample Data ",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-11-09T23:28:48Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8765e0992d6afd62afd50e09e9003a0b12c17d089679e6cac618ae2ed0b26003",
-        "did": "did:op:fc08c8c62b2ef8f4ee594558aB7cD50904B8BF78",
-        "filesChecksum": "62c82dceaeba23a49e8ea25b07063ec0b1c7b4260e8e9e00223b94644672389e"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 31556952
 }
 {
   "author": "Agri-Gaia",
@@ -2444,13 +1386,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x1e374FD0184E8Bc9c4BAe8181F03c4abF780e375",
-  "datePublished": "2021-11-07T08:33:23Z",
-  "name": "dataAssetAccess",
-  "timeout": 0
-}
-{
   "author": "Perrin GRANDNE",
   "dateCreated": "2021-11-04T10:55:05Z",
   "datePublished": "2021-11-04T10:55:38Z",
@@ -2464,13 +1399,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Dataset test Jours fériés en France",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0xC8439b4a2a6ca01853a8e0597177b599AF2fF3Bf",
-  "datePublished": "2021-11-04T10:55:05Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
 }
 {
   "author": "rogargon",
@@ -2488,13 +1416,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x2E66a91ed1d5Cb9EcEe7b5606895536e77F873b1",
-  "datePublished": "2021-11-04T09:16:10Z",
-  "name": "dataAssetAccess",
-  "timeout": 31556952
-}
-{
   "author": "Perrin GRANDNE",
   "dateCreated": "2021-11-03T15:53:14Z",
   "datePublished": "2021-11-04T09:01:14Z",
@@ -2508,20 +1429,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "test PG",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0xC8439b4a2a6ca01853a8e0597177b599AF2fF3Bf",
-  "datePublished": "2021-11-03T15:53:14Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "author": "Perrin GRANDNE",
@@ -2539,13 +1446,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0xC8439b4a2a6ca01853a8e0597177b599AF2fF3Bf",
-  "datePublished": "2021-11-03T14:58:16Z",
-  "name": "dataAssetAccess",
-  "timeout": 2630000
-}
-{
   "author": "Alessandro Rosetti",
   "dateCreated": "2021-11-03T10:06:46Z",
   "datePublished": "2021-11-03T10:22:52Z",
@@ -2559,13 +1459,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "🐱 Cat dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x59EeA31C5cA8143Dc48B3FDb3Eb0B6CCd8357Af4",
-  "datePublished": "2021-11-03T10:06:46Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
 }
 {
   "author": "Jan van de NS",
@@ -2583,20 +1476,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x4e5e53CaCb57aA41b25d0F4f7976b44405c39EF3",
-  "datePublished": "2021-11-02T19:57:14Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Demonstrator",
   "dateCreated": "2021-10-29T11:38:56Z",
   "datePublished": "2021-10-29T11:46:15Z",
@@ -2610,26 +1489,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Demonstrator Data 📁 A European Data Economy in 2021",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0xb42251C979b4dE031D1118AFd339EeD980B765e7",
-  "datePublished": "2021-10-29T11:38:56Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "8ebb5b2fbb5c807716a86542710a57e85cc9482904294687d43ab4c7fc482673",
-        "did": "did:op:b3F2d84acEfb6aB4e850cb66dA2D9008E3f1A643",
-        "filesChecksum": "e202e49a6e18168c4e6e21a563eb4ebd02cb0d3c79e417164f263130bcce962f"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -2657,20 +1516,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-10-27T10:27:13Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Test Author",
   "dateCreated": "2021-10-27T09:47:33Z",
   "datePublished": "2021-11-04T15:25:25Z",
@@ -2684,20 +1529,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Test use case dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
-  "datePublished": "2021-10-27T09:47:33Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": true,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 31556952
 }
 {
   "author": "John Doe",
@@ -2715,13 +1546,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x44C34FbBB727bDC648E65feCfF3FB9D4c85f1fe4",
-  "datePublished": "2021-10-15T09:13:12Z",
-  "name": "dataAssetAccess",
-  "timeout": 604800
-}
-{
   "author": "GI Joe",
   "dateCreated": "2021-10-14T13:40:53Z",
   "datePublished": "2021-10-14T13:41:27Z",
@@ -2737,13 +1561,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x9de6ac8d729e05C94AB03E97763EedcC4Dbae7f9",
-  "datePublished": "2021-10-14T13:40:53Z",
-  "name": "dataAssetAccess",
-  "timeout": 2630000
-}
-{
   "author": "GI Joe",
   "dateCreated": "2021-10-14T13:28:34Z",
   "datePublished": "2021-10-14T13:29:16Z",
@@ -2757,13 +1574,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Best Mojito Recipe ",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x9de6ac8d729e05C94AB03E97763EedcC4Dbae7f9",
-  "datePublished": "2021-10-14T13:28:34Z",
-  "name": "dataAssetAccess",
-  "timeout": 2630000
 }
 {
   "algorithm": {
@@ -2791,20 +1601,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x1072D3287A5cC513F40b425735E04355487f5F57",
-  "datePublished": "2021-10-12T23:09:10Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "algorithm": {
     "container": {
       "entrypoint": "node $ALGO",
@@ -2828,13 +1624,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Test algorithm",
   "type": "algorithm"
-}
-{
-  "cost": "1",
-  "creator": "0x1072D3287A5cC513F40b425735E04355487f5F57",
-  "datePublished": "2021-10-11T17:47:32Z",
-  "name": "dataAssetAccess",
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -2862,20 +1651,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0xa76Fa6837A6ffc9F123F2193717A5965c68B0cbA",
-  "datePublished": "2021-09-11T14:26:44Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 2630000
-}
-{
   "author": "deltaDAO AG",
   "dateCreated": "2021-09-11T14:23:22Z",
   "datePublished": "2021-11-18T01:23:13Z",
@@ -2889,26 +1664,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": " 🚘 Automotive POC: Traffic Image Data",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0xa76Fa6837A6ffc9F123F2193717A5965c68B0cbA",
-  "datePublished": "2021-09-11T14:23:22Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "abfb0ed5cde71a4273a24d854f34874933cc4cdbfc9496a1442b9e182fc7fd91",
-        "did": "did:op:b562a807b0db22bE0AD4FD53b35c460e17128F13",
-        "filesChecksum": "38f0c0a23df2e727ff961dcf5ee38270727aa00bc36cbde3f8f2dcd5eb7b79ea"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 2630000
 }
 {
   "author": "Alex",
@@ -2926,20 +1681,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x943CaA8afCAdd2F64a7cE9E53A91d5ea0BEb40c1",
-  "datePublished": "2021-09-11T14:16:10Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
-}
-{
   "author": "Cloud&Heat",
   "dateCreated": "2021-08-31T13:53:47Z",
   "datePublished": "2021-09-16T09:02:28Z",
@@ -2953,26 +1694,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Cloud&Heat - Heat demand prediction DATASET",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0xe7Be4D95e0EDa3f7e30A66d14f3c4ef40be133F1",
-  "datePublished": "2021-08-31T13:53:47Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": [
-      {
-        "containerSectionChecksum": "76fbe038e2f340eeb74c236cf70351fcb3f1ac0f12f3ba2be584f16c09fc4e7e",
-        "did": "did:op:50e530262B736999860aDDe07fcabA91b171f15E",
-        "filesChecksum": "4bc1b717130baf016f75b9c37a43fc13dc9aea2de7cbd1607d316a8cec766f00"
-      }
-    ]
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "algorithm": {
@@ -3000,20 +1721,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0xe7Be4D95e0EDa3f7e30A66d14f3c4ef40be133F1",
-  "datePublished": "2021-08-31T13:52:44Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
-}
-{
   "algorithm": {
     "container": {
       "entrypoint": "./docker-entrypoint.sh",
@@ -3037,20 +1744,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Cloud&Heat - Heat demand prediction",
   "type": "algorithm"
-}
-{
-  "cost": "1",
-  "creator": "0x3c0F6a52c84A79eBC52C56Ff8C029a30F929C344",
-  "datePublished": "2021-08-31T13:08:20Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
 }
 {
   "algorithm": {
@@ -3078,20 +1771,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0x3c0F6a52c84A79eBC52C56Ff8C029a30F929C344",
-  "datePublished": "2021-08-31T12:05:56Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 3600
-}
-{
   "author": "Heat",
   "dateCreated": "2021-08-31T12:04:56Z",
   "datePublished": "2021-09-16T09:02:09Z",
@@ -3105,20 +1784,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Cloud&Heat - Heat demand prediction DATASET",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x3c0F6a52c84A79eBC52C56Ff8C029a30F929C344",
-  "datePublished": "2021-08-31T12:04:56Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": true,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
 }
 {
   "author": "Bla Blub",
@@ -3136,13 +1801,6 @@
   "type": "dataset"
 }
 {
-  "cost": "1",
-  "creator": "0x44C34FbBB727bDC648E65feCfF3FB9D4c85f1fe4",
-  "datePublished": "2021-08-31T11:36:34Z",
-  "name": "dataAssetAccess",
-  "timeout": 604800
-}
-{
   "author": "not me",
   "dateCreated": "2021-08-31T11:16:24Z",
   "datePublished": "2021-09-16T09:01:50Z",
@@ -3156,13 +1814,6 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Just a random test dataset",
   "type": "dataset"
-}
-{
-  "cost": "1",
-  "creator": "0x3e81AA994f774eE914D57946DDF2486EA7d42D65",
-  "datePublished": "2021-08-31T11:16:24Z",
-  "name": "dataAssetAccess",
-  "timeout": 0
 }
 {
   "algorithm": {
@@ -3190,20 +1841,6 @@
   "type": "algorithm"
 }
 {
-  "cost": "1",
-  "creator": "0xe7Be4D95e0EDa3f7e30A66d14f3c4ef40be133F1",
-  "datePublished": "2021-08-31T11:15:44Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
-}
-{
   "algorithm": {
     "container": {
       "entrypoint": "node $ALGO",
@@ -3227,18 +1864,4 @@
   "license": "https://market.oceanprotocol.com/terms",
   "name": "Cloud & Heat - Heat Demand Prediction",
   "type": "algorithm"
-}
-{
-  "cost": "1",
-  "creator": "0xe7Be4D95e0EDa3f7e30A66d14f3c4ef40be133F1",
-  "datePublished": "2021-08-31T11:14:38Z",
-  "name": "dataAssetComputingService",
-  "privacy": {
-    "allowAllPublishedAlgorithms": false,
-    "allowNetworkAccess": false,
-    "allowRawAlgorithm": false,
-    "publisherTrustedAlgorithms": []
-  },
-  "provider": {},
-  "timeout": 86400
 }
