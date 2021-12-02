@@ -1,0 +1,20 @@
+#!/bin/bash -x
+#
+# Created during Gaia-X Hackathon #2 https://www.gaia-x.eu/news/events/gaia-x-hackathon-2
+#
+# Query for all assets on the Gaia-X Test Network (ChainId: 2021000)
+#
+# (c) Christoph Lange, Fraunhofer FIT <christoph.lange-bever@fit.fraunhofer.de>
+#
+# Credits to Moritz Kirstein, Alexander Eger (DeltaDAO)
+
+curl 'https://aquarius.delta-dao.com/api/v1/aquarius/assets/query' \
+     -H 'authority: aquarius.gaiax.delta-dao.com' \
+     -H 'accept: application/json' \
+     -H 'content-type: application/json;charset=UTF-8' \
+     -H 'referer: https://catalogue.minimal-gaia-x.eu/' \
+     -H 'accept-language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7' \
+     --data-raw '{"from": 0, "query": {"bool": {"filter": [{"terms": {"chainId": [2021000]}} ]}}, "size": 100, "sort": {"created": "desc"}}' \
+     --compressed \
+     --silent | \
+    jq .
