@@ -7,5 +7,7 @@ This work is done in the scope of the extended specification of Self-Description
 * [`Makefile`](Makefile): running all tasks automatically
 * [`get-sds-from-catalogue`](get-sds-from-catalogue): runs a query against the catalogue API to retrieve the full catalogue metadata
 * [`all.json`](all.json): output of the former script
-* [`entities.json`](entities.json): just the entity self-descriptions, filtered from the former JSON document
-* [`stats.json`](stats.json): filtered output (to be enriched with actual statistics)
+* [`extract-entities.jq`](extract-entities.jq): extracts just the entity self-descriptions from the former JSON document
+* [`entities.json`](entities.json): the extracted entity self-descriptions
+* [`flatten-nested.jq`](flatten-nested.jq): flattens nested JSON structures
+* [`stats.json`](stats.json): the final output
