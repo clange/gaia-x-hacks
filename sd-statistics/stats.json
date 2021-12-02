@@ -1,1869 +1,1133 @@
-[
-  {
-    "author": "Ander Garcia (Vicomtech) from Hackthon",
-    "dateCreated": "2021-12-02T13:27:48Z",
-    "datePublished": "2021-12-02T13:28:31Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Hackathon test weather data",
-    "type": "dataset"
-  },
-  {
-    "author": "Martin van der Werff",
-    "dateCreated": "2021-12-02T12:50:41Z",
-    "datePublished": "2021-12-02T12:51:40Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Martin's test",
-    "type": "dataset"
-  },
-  {
-    "author": "Hackathon Gaiax Attendant",
-    "dateCreated": "2021-12-02T11:08:35Z",
-    "datePublished": "2021-12-02T11:13:51Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Ander test dataset HCTKN",
-    "type": "dataset"
-  },
-  {
-    "author": "Organization XY",
-    "dateCreated": "2021-12-02T11:07:55Z",
-    "datePublished": "2021-12-02T11:08:50Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Gaia-X Test 02/12/2021",
-    "type": "dataset"
-  },
-  {
-    "author": "Simple Jo",
-    "dateCreated": "2021-12-02T11:02:02Z",
-    "datePublished": "2021-12-02T11:25:43Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Simple Data Test",
-    "type": "dataset"
-  },
-  {
-    "author": "Leeeeeeeroy_Jenkins",
-    "dateCreated": "2021-12-02T11:01:02Z",
-    "datePublished": "2021-12-02T11:28:29Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "LH Test",
-    "type": "dataset"
-  },
-  {
-    "author": "VF demo",
-    "dateCreated": "2021-12-02T11:00:23Z",
-    "datePublished": "2021-12-02T11:28:00Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "KevinsDemoData",
-    "type": "dataset"
-  },
-  {
-    "author": "3141592",
-    "dateCreated": "2021-12-02T11:00:43Z",
-    "datePublished": "2021-12-02T11:01:18Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "test day1 tutorial ",
-    "type": "dataset"
-  },
-  {
-    "author": "TNO",
-    "dateCreated": "2021-12-02T11:00:11Z",
-    "datePublished": "2021-12-02T11:01:03Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Hackathon Test Data - TNO",
-    "type": "dataset"
-  },
-  {
-    "author": "Stefan's Example Organisation",
-    "dateCreated": "2021-12-02T10:59:07Z",
-    "datePublished": "2021-12-02T11:00:59Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Stefan's Demonstrator Data – GAIA-X Hackathon #2",
-    "type": "dataset"
-  },
-  {
-    "author": "3141592",
-    "dateCreated": "2021-12-02T11:00:19Z",
-    "datePublished": "2021-12-02T11:01:01Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "test day1 tutorial ",
-    "type": "dataset"
-  },
-  {
-    "author": "deltaDAO AG Demonstrator",
-    "dateCreated": "2021-12-02T11:00:09Z",
-    "datePublished": "2021-12-02T11:00:57Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Demonstrator Data - Day 1 Tutorial",
-    "type": "dataset"
-  },
-  {
-    "author": "Atos SE",
-    "dateCreated": "2021-12-01T20:53:30Z",
-    "datePublished": "2021-12-01T20:56:10Z",
-    "files": [
-      {
-        "contentLength": "5258150376",
-        "contentType": "application/x-tar",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Dataset)",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/atos-proof-of-concept",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "com",
-      "version": "0.1"
-    },
-    "author": "Atos SE",
-    "dateCreated": "2021-12-01T20:51:45Z",
-    "datePublished": "2021-12-01T20:52:24Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "QUICK - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Algorithm)",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/orfeo_toolbox",
-        "tag": "v1"
-      },
-      "format": "docker-image",
-      "language": "com",
-      "version": "0.1"
-    },
-    "author": "Atos SE",
-    "dateCreated": "2021-12-01T18:24:02Z",
-    "datePublished": "2021-12-01T18:24:31Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "FULL - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Algorithm)",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/atos-proof-of-concept",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "com",
-      "version": "0.1"
-    },
-    "author": "Atos SE",
-    "dateCreated": "2021-12-01T18:19:42Z",
-    "datePublished": "2021-12-01T18:20:20Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "QUICK - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Algorithm)",
-    "type": "algorithm"
-  },
-  {
-    "author": "Atos SE",
-    "dateCreated": "2021-12-01T18:13:12Z",
-    "datePublished": "2021-12-01T18:33:47Z",
-    "files": [
-      {
-        "contentLength": "5258150376",
-        "contentType": "application/x-tar",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Dataset)",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/atos-proof-of-concept",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "com",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-12-01T17:45:53Z",
-    "datePublished": "2021-12-01T17:46:27Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Provider tests",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-12-01T17:42:21Z",
-    "datePublished": "2021-12-01T17:48:53Z",
-    "files": [
-      {
-        "contentLength": "5258150376",
-        "contentType": "application/x-tar",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Provider test",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/bids-example",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "com",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-12-01T17:18:47Z",
-    "datePublished": "2021-12-01T17:19:40Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Bids test",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-12-01T17:11:34Z",
-    "datePublished": "2021-12-01T17:23:50Z",
-    "files": [
-      {
-        "contentLength": "5258150376",
-        "contentType": "application/x-tar",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test Dataset",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/forever",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "com",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-12-01T13:19:19Z",
-    "datePublished": "2021-12-01T13:19:49Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Foreverontheblockchain Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-12-01T13:14:08Z",
-    "datePublished": "2021-12-01T14:52:59Z",
-    "files": [
-      {
-        "contentLength": "815283",
-        "contentType": "text/csv",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Foreverontheblockchain Dataset",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./detect-inputs.sh",
-        "image": "deltadao/yolov5",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "com",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-12-01T13:04:06Z",
-    "datePublished": "2021-12-01T13:04:42Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Yolov5 Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-12-01T12:58:02Z",
-    "datePublished": "2021-12-01T16:11:09Z",
-    "files": [
-      {
-        "contentLength": "15833341",
-        "contentType": "application/zip",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Yolov5 Dataset examples",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/atos-proof-of-concept",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "eu/",
-      "version": "0.1"
-    },
-    "author": "Atos SE",
-    "dateCreated": "2021-12-01T12:43:42Z",
-    "datePublished": "2021-12-01T13:28:33Z",
-    "files": [
-      {
-        "contentLength": "0",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "QUICK - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/orfeo_toolbox",
-        "tag": "v1"
-      },
-      "format": "docker-image",
-      "language": "sh",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-12-01T12:34:27Z",
-    "datePublished": "2021-12-01T16:20:47Z",
-    "files": [
-      {
-        "contentLength": "1488",
-        "contentType": "text/x-sh",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "FULL - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-12-01T12:29:53Z",
-    "datePublished": "2021-12-01T16:19:53Z",
-    "files": [
-      {
-        "contentLength": "5258150376",
-        "contentType": "application/x-tar",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Data Fusion Dataset - Copernicus Sentinel-1 SLC IW and Sentinel 2 L2A ",
-    "type": "dataset"
-  },
-  {
-    "author": "Jordi Gené-Mola; Ricardo Sanz-Cortiella; Joan R. Rosell-Polo; Alexandre Escolà; Eduard Gregorio",
-    "dateCreated": "2021-12-01T12:08:56Z",
-    "datePublished": "2021-12-01T12:09:34Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "4-apples_GT_diameter_and_centre.txt",
-    "type": "dataset"
-  },
-  {
-    "author": "testAuthor",
-    "dateCreated": "2021-11-29T16:25:05Z",
-    "datePublished": "2021-11-29T16:25:43Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test Science Dataset",
-    "type": "dataset"
-  },
-  {
-    "author": "testAuthor",
-    "dateCreated": "2021-11-29T16:15:43Z",
-    "datePublished": "2021-11-29T16:16:31Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "My Science Test Dataset",
-    "type": "dataset"
-  },
-  {
-    "author": "safeFBDC",
-    "dateCreated": "2021-11-25T18:26:35Z",
-    "datePublished": "2021-12-02T00:22:47Z",
-    "files": [
-      {
-        "checksum": "b06e1cad5020dc33f7d838eaaa4955746c2ef21f6846156faebe6c1ace8d7f99",
-        "checksumType": "sha256",
-        "contentLength": "3924183",
-        "contentType": "text/csv",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "safeFBDC - Pooled Dataset",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./algo/docker-entrypoint.sh",
-        "image": "deltadao/fbdc",
-        "tag": "algov1.0"
-      },
-      "format": "docker-image",
-      "language": "json",
-      "version": "0.1"
-    },
-    "author": "safeFBDC",
-    "dateCreated": "2021-11-25T18:21:46Z",
-    "datePublished": "2021-12-02T00:20:57Z",
-    "files": [
-      {
-        "checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
-        "checksumType": "sha256",
-        "contentLength": "471",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "safeFBDC - AML Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/fbdc",
-        "tag": "combinev1.0"
-      },
-      "format": "docker-image",
-      "language": "json",
-      "version": "0.1"
-    },
-    "author": "safeFBDC",
-    "dateCreated": "2021-11-25T17:33:48Z",
-    "datePublished": "2021-12-02T00:21:52Z",
-    "files": [
-      {
-        "checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
-        "checksumType": "sha256",
-        "contentLength": "471",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "safeFBDC - Pooling Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "author": "Bank B",
-    "dateCreated": "2021-11-25T16:42:08Z",
-    "datePublished": "2021-12-02T00:16:17Z",
-    "files": [
-      {
-        "checksum": "687079814fc39cfa4c0e7a0bbd8d8ba97ae488658ff9684398903d107c81c093",
-        "checksumType": "sha256",
-        "contentLength": "671418",
-        "contentType": "application/zip",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Bank B - Financial Dataset",
-    "type": "dataset"
-  },
-  {
-    "author": "Bank A",
-    "dateCreated": "2021-11-25T16:27:03Z",
-    "datePublished": "2021-12-02T00:14:56Z",
-    "files": [
-      {
-        "checksum": "a2f45512c60394508c2b50261d3e443faf9574e0ede56db2c840041aa7370e08",
-        "checksumType": "sha256",
-        "contentLength": "730783",
-        "contentType": "application/zip",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Bank A - Financial Dataset",
-    "type": "dataset"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-25T16:23:17Z",
-    "datePublished": "2021-11-25T16:23:48Z",
-    "files": [
-      {
-        "checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
-        "checksumType": "sha256",
-        "contentLength": "471",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test Bank A",
-    "type": "dataset"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-25T16:21:05Z",
-    "datePublished": "2021-11-25T16:21:48Z",
-    "files": [
-      {
-        "checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
-        "checksumType": "sha256",
-        "contentLength": "471",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test Dataset Bank b",
-    "type": "dataset"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-25T16:18:34Z",
-    "datePublished": "2021-11-25T16:19:10Z",
-    "files": [
-      {
-        "checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
-        "checksumType": "sha256",
-        "contentLength": "471",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test Dataset",
-    "type": "dataset"
-  },
-  {
-    "author": "Test",
-    "dateCreated": "2021-11-23T17:27:06Z",
-    "datePublished": "2021-11-23T17:31:05Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "CTD Test",
-    "type": "dataset"
-  },
-  {
-    "author": "Test",
-    "dateCreated": "2021-11-23T17:25:36Z",
-    "datePublished": "2021-11-23T17:26:22Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "CTD Test",
-    "type": "dataset"
-  },
-  {
-    "author": "All",
-    "dateCreated": "2020-12-17T13:38:49Z",
-    "datePublished": "2021-11-23T14:38:43Z",
-    "files": [
-      {
-        "checksum": "efb2c764274b745f5fc37f97c6b0e764",
-        "compression": "zip",
-        "contentLength": "4535431",
-        "contentType": "text/csv",
-        "encoding": "UTF-8",
-        "index": 0
-      }
-    ],
-    "license": "CC-BY",
-    "name": "Demo1",
-    "type": "dataset"
-  },
-  {
-    "author": "mr. test",
-    "dateCreated": "2021-11-20T12:19:53Z",
-    "datePublished": "2021-11-20T15:45:47Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test Data",
-    "type": "dataset"
-  },
-  {
-    "author": "Jendo Kahn",
-    "dateCreated": "2021-11-19T18:25:50Z",
-    "datePublished": "2021-11-19T18:26:12Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Nope",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-11-17T14:58:27Z",
-    "datePublished": "2021-11-17T14:58:57Z",
-    "files": [
-      {
-        "checksum": "cbd7b9964fa887f5f3acd48d2312435da2e351fa0c4689169b53ae2ec2014173",
-        "checksumType": "sha256",
-        "contentLength": "2025",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test Algorithm Provider gm4",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-17T13:30:07Z",
-    "datePublished": "2021-11-17T13:39:02Z",
-    "files": [
-      {
-        "checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
-        "checksumType": "sha256",
-        "contentLength": "231",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "weather Data Sample Hashed",
-    "type": "dataset"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-17T11:41:38Z",
-    "datePublished": "2021-11-17T15:10:49Z",
-    "files": [
-      {
-        "checksum": "dc3b5b4208fbf9cfc24ff32906f7a081324a04b2afcea23694512ecb755ff155",
-        "checksumType": "sha256",
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Weather Data Hashed",
-    "type": "dataset"
-  },
-  {
-    "author": "testAuthor",
-    "dateCreated": "2021-11-17T03:55:19Z",
-    "datePublished": "2021-11-17T03:56:18Z",
-    "files": [
-      {
-        "checksum": "dc3b5b4208fbf9cfc24ff32906f7a081324a04b2afcea23694512ecb755ff155",
-        "checksumType": "sha256",
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test: Weather Dataset",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/fbdc",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "json",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-11-16T23:48:32Z",
-    "datePublished": "2021-11-16T23:49:17Z",
-    "files": [
-      {
-        "contentLength": "473",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test Weather Combine Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-16T23:19:46Z",
-    "datePublished": "2021-11-16T23:21:53Z",
-    "files": [
-      {
-        "contentLength": "471",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Sample Weather Data",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "sh",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-11-16T23:15:24Z",
-    "datePublished": "2021-11-16T23:15:57Z",
-    "files": [
-      {
-        "contentLength": "1494",
-        "contentType": "text/x-sh",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Weather Algo Combinded",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "sh",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-11-16T23:09:41Z",
-    "datePublished": "2021-11-16T23:10:15Z",
-    "files": [
-      {
-        "contentLength": "1494",
-        "contentType": "text/x-sh",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test combine",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-16T22:26:06Z",
-    "datePublished": "2021-11-17T20:23:37Z",
-    "files": [
-      {
-        "contentLength": "231",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Example 2",
-    "type": "dataset"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-16T22:16:22Z",
-    "datePublished": "2021-11-17T22:28:22Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Example 1",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-11-16T17:12:11Z",
-    "datePublished": "2021-11-16T17:12:40Z",
-    "files": [
-      {
-        "contentLength": "2025",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Weather Algo ",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-15T15:52:54Z",
-    "datePublished": "2021-11-15T15:54:48Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Testing Stuff",
-    "type": "dataset"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-15T14:46:54Z",
-    "datePublished": "2021-11-17T15:02:04Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-11-15T14:39:15Z",
-    "datePublished": "2021-11-15T14:39:55Z",
-    "files": [
-      {
-        "contentLength": "2025",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Multi Provider Algorithm Testing",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-11-15T14:31:32Z",
-    "datePublished": "2021-11-15T14:31:58Z",
-    "files": [
-      {
-        "contentLength": "2025",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Multi Provider Algorithm Test",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-11-15T14:23:00Z",
-    "datePublished": "2021-11-15T14:23:28Z",
-    "files": [
-      {
-        "contentLength": "2025",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Multi Provider Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-15T13:05:19Z",
-    "datePublished": "2021-11-16T20:03:30Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test multi Provider",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "testAuthor",
-    "dateCreated": "2021-11-13T19:11:58Z",
-    "datePublished": "2021-11-13T19:12:47Z",
-    "files": [
-      {
-        "contentLength": "2025",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Sample Weather Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-13T15:18:31Z",
-    "datePublished": "2021-11-17T14:52:12Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Sample Dataset",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-11-13T15:09:48Z",
-    "datePublished": "2021-11-13T15:15:37Z",
-    "files": [
-      {
-        "contentLength": "2025",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Sample Weather Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "testAuthor",
-    "dateCreated": "2021-11-12T20:31:30Z",
-    "datePublished": "2021-11-17T20:25:40Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Broken Test",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "testAuthor",
-    "dateCreated": "2021-11-12T19:25:27Z",
-    "datePublished": "2021-11-12T20:36:16Z",
-    "files": [
-      {
-        "contentLength": "1240",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Sample Count Rows Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "author": "testAuthor",
-    "dateCreated": "2021-11-12T19:22:38Z",
-    "datePublished": "2021-11-15T04:46:30Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Weather Sample Data",
-    "type": "dataset"
-  },
-  {
-    "author": "testAuthor",
-    "dateCreated": "2021-11-12T19:20:05Z",
-    "datePublished": "2021-11-12T19:20:32Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Weather Sample Data",
-    "type": "dataset"
-  },
-  {
-    "author": "Kiu",
-    "dateCreated": "2021-11-12T11:35:59Z",
-    "datePublished": "2021-11-12T11:36:57Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Wether Test",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/forever",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "csv",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-11-10T13:44:06Z",
-    "datePublished": "2021-11-10T13:44:48Z",
-    "files": [
-      {
-        "contentLength": "815283",
-        "contentType": "text/csv",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Rscript Algorithm Container",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-11-10T13:42:18Z",
-    "datePublished": "2021-11-10T13:46:34Z",
-    "files": [
-      {
-        "contentLength": "815283",
-        "contentType": "text/csv",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Rscript Dataset",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./detect-inputs.sh",
-        "image": "deltadao/yolov5",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "jpeg",
-      "version": "0.1"
-    },
-    "author": "deltaDAO AG 🚀",
-    "dateCreated": "2021-11-09T23:32:58Z",
-    "datePublished": "2021-11-10T02:33:07Z",
-    "files": [
-      {
-        "contentLength": "78625",
-        "contentType": "image/jpeg",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "🚜 Object Classification Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "author": "test author",
-    "dateCreated": "2021-11-09T23:28:48Z",
-    "datePublished": "2021-11-18T00:19:52Z",
-    "files": [
-      {
-        "contentLength": "15833341",
-        "contentType": "application/zip",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "🖼 Image Classification Sample Data ",
-    "type": "dataset"
-  },
-  {
-    "author": "Agri-Gaia",
-    "dateCreated": "2021-11-07T08:33:23Z",
-    "datePublished": "2021-11-07T08:33:29Z",
-    "files": [
-      {
-        "contentLength": "6016",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Agri-Gaia Logo",
-    "type": "dataset"
-  },
-  {
-    "author": "Perrin GRANDNE",
-    "dateCreated": "2021-11-04T10:55:05Z",
-    "datePublished": "2021-11-04T10:55:38Z",
-    "files": [
-      {
-        "contentLength": "0",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Dataset test Jours fériés en France",
-    "type": "dataset"
-  },
-  {
-    "author": "rogargon",
-    "dateCreated": "2021-11-04T09:16:10Z",
-    "datePublished": "2021-11-04T09:17:00Z",
-    "files": [
-      {
-        "contentLength": "3456",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "BESDUI Dataset Metadata",
-    "type": "dataset"
-  },
-  {
-    "author": "Perrin GRANDNE",
-    "dateCreated": "2021-11-03T15:53:14Z",
-    "datePublished": "2021-11-04T09:01:14Z",
-    "files": [
-      {
-        "contentLength": "0",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "test PG",
-    "type": "dataset"
-  },
-  {
-    "author": "Perrin GRANDNE",
-    "dateCreated": "2021-11-03T14:58:16Z",
-    "datePublished": "2021-11-03T14:59:01Z",
-    "files": [
-      {
-        "contentLength": "0",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Publishing Test PG",
-    "type": "dataset"
-  },
-  {
-    "author": "Alessandro Rosetti",
-    "dateCreated": "2021-11-03T10:06:46Z",
-    "datePublished": "2021-11-03T10:22:52Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "🐱 Cat dataset",
-    "type": "dataset"
-  },
-  {
-    "author": "Jan van de NS",
-    "dateCreated": "2021-11-02T19:57:14Z",
-    "datePublished": "2021-11-02T20:13:04Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "NL Railway usage data - test",
-    "type": "dataset"
-  },
-  {
-    "author": "Demonstrator",
-    "dateCreated": "2021-10-29T11:38:56Z",
-    "datePublished": "2021-10-29T11:46:15Z",
-    "files": [
-      {
-        "contentLength": "24187",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Demonstrator Data 📁 A European Data Economy in 2021",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/data_union",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "png",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-10-27T10:27:13Z",
-    "datePublished": "2021-10-27T10:27:45Z",
-    "files": [
-      {
-        "contentLength": "2380973",
-        "contentType": "image/png",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "GPU Algotest",
-    "type": "algorithm"
-  },
-  {
-    "author": "Test Author",
-    "dateCreated": "2021-10-27T09:47:33Z",
-    "datePublished": "2021-11-04T15:25:25Z",
-    "files": [
-      {
-        "contentLength": "8679039",
-        "contentType": "application/zip",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test use case dataset",
-    "type": "dataset"
-  },
-  {
-    "author": "John Doe",
-    "dateCreated": "2021-10-15T09:13:12Z",
-    "datePublished": "2021-10-15T09:14:10Z",
-    "files": [
-      {
-        "contentLength": "0",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Testdata42",
-    "type": "dataset"
-  },
-  {
-    "author": "GI Joe",
-    "dateCreated": "2021-10-14T13:40:53Z",
-    "datePublished": "2021-10-14T13:41:27Z",
-    "files": [
-      {
-        "contentLength": "0",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Best Mojito Recipe ",
-    "type": "dataset"
-  },
-  {
-    "author": "GI Joe",
-    "dateCreated": "2021-10-14T13:28:34Z",
-    "datePublished": "2021-10-14T13:29:16Z",
-    "files": [
-      {
-        "contentLength": "0",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Best Mojito Recipe ",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/catena-x",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "png",
-      "version": "0.1"
-    },
-    "author": "Test Author",
-    "dateCreated": "2021-10-12T23:09:10Z",
-    "datePublished": "2021-10-12T23:09:55Z",
-    "files": [
-      {
-        "contentLength": "",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": " 🚘 Automotive POC: Traffic Image Annotation Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "test author",
-    "dateCreated": "2021-10-11T17:47:32Z",
-    "datePublished": "2021-10-11T17:47:57Z",
-    "files": [
-      {
-        "contentLength": "1240",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test algorithm",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/catena-x",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "json",
-      "version": "0.1"
-    },
-    "author": "deltaDAO AG",
-    "dateCreated": "2021-09-11T14:26:44Z",
-    "datePublished": "2021-09-16T09:10:08Z",
-    "files": [
-      {
-        "contentLength": "231",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": " 🚘 Automotive POC: Traffic Image Annotation Algorithm",
-    "type": "algorithm"
-  },
-  {
-    "author": "deltaDAO AG",
-    "dateCreated": "2021-09-11T14:23:22Z",
-    "datePublished": "2021-11-18T01:23:13Z",
-    "files": [
-      {
-        "contentLength": "19595897",
-        "contentType": "application/zip",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": " 🚘 Automotive POC: Traffic Image Data",
-    "type": "dataset"
-  },
-  {
-    "author": "Alex",
-    "dateCreated": "2021-09-11T14:16:10Z",
-    "datePublished": "2021-09-16T09:08:15Z",
-    "files": [
-      {
-        "contentLength": "19595897",
-        "contentType": "application/zip",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Test Dataset",
-    "type": "dataset"
-  },
-  {
-    "author": "Cloud&Heat",
-    "dateCreated": "2021-08-31T13:53:47Z",
-    "datePublished": "2021-09-16T09:02:28Z",
-    "files": [
-      {
-        "contentLength": "61585",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Cloud&Heat - Heat demand prediction DATASET",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/heat-demand",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "js",
-      "version": "0.1"
-    },
-    "author": "Cloud&Heat",
-    "dateCreated": "2021-08-31T13:52:44Z",
-    "datePublished": "2021-09-16T09:02:21Z",
-    "files": [
-      {
-        "contentLength": "2025",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Cloud&Heat - Heat demand prediction",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "./docker-entrypoint.sh",
-        "image": "deltadao/heat-demand",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "eu",
-      "version": "0.1"
-    },
-    "author": "Heat",
-    "dateCreated": "2021-08-31T13:08:20Z",
-    "datePublished": "2021-09-16T09:02:04Z",
-    "files": [
-      {
-        "contentLength": "61584",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Cloud&Heat - Heat demand prediction",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "python3.8 start.py  --model-dir /data/ --model-bucket-dir model",
-        "image": "deltadao/heat-demand",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "json",
-      "version": "0.1"
-    },
-    "author": "Heat",
-    "dateCreated": "2021-08-31T12:05:56Z",
-    "datePublished": "2021-09-16T09:02:02Z",
-    "files": [
-      {
-        "contentLength": "5112",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Cloud&Heat - Heat demand prediction",
-    "type": "algorithm"
-  },
-  {
-    "author": "Heat",
-    "dateCreated": "2021-08-31T12:04:56Z",
-    "datePublished": "2021-09-16T09:02:09Z",
-    "files": [
-      {
-        "contentLength": "5112",
-        "contentType": "text/plain",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Cloud&Heat - Heat demand prediction DATASET",
-    "type": "dataset"
-  },
-  {
-    "author": "Bla Blub",
-    "dateCreated": "2021-08-31T11:36:34Z",
-    "datePublished": "2021-09-16T09:01:52Z",
-    "files": [
-      {
-        "contentLength": "0",
-        "contentType": "application/json",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Cocktail Testdata ",
-    "type": "dataset"
-  },
-  {
-    "author": "not me",
-    "dateCreated": "2021-08-31T11:16:24Z",
-    "datePublished": "2021-09-16T09:01:50Z",
-    "files": [
-      {
-        "contentLength": "648",
-        "contentType": "text/html",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Just a random test dataset",
-    "type": "dataset"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "JPG",
-      "version": "0.1"
-    },
-    "author": "Heat&Cloud",
-    "dateCreated": "2021-08-31T11:15:44Z",
-    "datePublished": "2021-09-16T09:01:48Z",
-    "files": [
-      {
-        "contentLength": "27043",
-        "contentType": "image/jpeg",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Cloud & Heat - Heat Demand Prediction",
-    "type": "algorithm"
-  },
-  {
-    "algorithm": {
-      "container": {
-        "entrypoint": "node $ALGO",
-        "image": "node",
-        "tag": "latest"
-      },
-      "format": "docker-image",
-      "language": "JPG",
-      "version": "0.1"
-    },
-    "author": "Heat&Cloud",
-    "dateCreated": "2021-08-31T11:14:38Z",
-    "datePublished": "2021-09-16T09:01:46Z",
-    "files": [
-      {
-        "contentLength": "27043",
-        "contentType": "image/jpeg",
-        "index": 0
-      }
-    ],
-    "license": "https://market.oceanprotocol.com/terms",
-    "name": "Cloud & Heat - Heat Demand Prediction",
-    "type": "algorithm"
-  }
-]
+{
+  "0→author": "Ander Garcia (Vicomtech) from Hackthon",
+  "0→dateCreated": "2021-12-02T13:27:48Z",
+  "0→datePublished": "2021-12-02T13:28:31Z",
+  "0→files→0→contentLength": "24187",
+  "0→files→0→contentType": "text/plain",
+  "0→files→0→index": 0,
+  "0→license": "https://market.oceanprotocol.com/terms",
+  "0→name": "Hackathon test weather data",
+  "0→type": "dataset",
+  "1→author": "Martin van der Werff",
+  "1→dateCreated": "2021-12-02T12:50:41Z",
+  "1→datePublished": "2021-12-02T12:51:40Z",
+  "1→files→0→contentLength": "",
+  "1→files→0→contentType": "text/html",
+  "1→files→0→index": 0,
+  "1→license": "https://market.oceanprotocol.com/terms",
+  "1→name": "Martin's test",
+  "1→type": "dataset",
+  "2→author": "Hackathon Gaiax Attendant",
+  "2→dateCreated": "2021-12-02T11:08:35Z",
+  "2→datePublished": "2021-12-02T11:13:51Z",
+  "2→files→0→contentLength": "24187",
+  "2→files→0→contentType": "text/plain",
+  "2→files→0→index": 0,
+  "2→license": "https://market.oceanprotocol.com/terms",
+  "2→name": "Ander test dataset HCTKN",
+  "2→type": "dataset",
+  "3→author": "Organization XY",
+  "3→dateCreated": "2021-12-02T11:07:55Z",
+  "3→datePublished": "2021-12-02T11:08:50Z",
+  "3→files→0→contentLength": "24187",
+  "3→files→0→contentType": "text/plain",
+  "3→files→0→index": 0,
+  "3→license": "https://market.oceanprotocol.com/terms",
+  "3→name": "Gaia-X Test 02/12/2021",
+  "3→type": "dataset",
+  "4→author": "Simple Jo",
+  "4→dateCreated": "2021-12-02T11:02:02Z",
+  "4→datePublished": "2021-12-02T11:25:43Z",
+  "4→files→0→contentLength": "24187",
+  "4→files→0→contentType": "text/plain",
+  "4→files→0→index": 0,
+  "4→license": "https://market.oceanprotocol.com/terms",
+  "4→name": "Simple Data Test",
+  "4→type": "dataset",
+  "5→author": "Leeeeeeeroy_Jenkins",
+  "5→dateCreated": "2021-12-02T11:01:02Z",
+  "5→datePublished": "2021-12-02T11:28:29Z",
+  "5→files→0→contentLength": "24187",
+  "5→files→0→contentType": "text/plain",
+  "5→files→0→index": 0,
+  "5→license": "https://market.oceanprotocol.com/terms",
+  "5→name": "LH Test",
+  "5→type": "dataset",
+  "6→author": "VF demo",
+  "6→dateCreated": "2021-12-02T11:00:23Z",
+  "6→datePublished": "2021-12-02T11:28:00Z",
+  "6→files→0→contentLength": "24187",
+  "6→files→0→contentType": "text/plain",
+  "6→files→0→index": 0,
+  "6→license": "https://market.oceanprotocol.com/terms",
+  "6→name": "KevinsDemoData",
+  "6→type": "dataset",
+  "7→author": "3141592",
+  "7→dateCreated": "2021-12-02T11:00:43Z",
+  "7→datePublished": "2021-12-02T11:01:18Z",
+  "7→files→0→contentLength": "24187",
+  "7→files→0→contentType": "text/plain",
+  "7→files→0→index": 0,
+  "7→license": "https://market.oceanprotocol.com/terms",
+  "7→name": "test day1 tutorial ",
+  "7→type": "dataset",
+  "8→author": "TNO",
+  "8→dateCreated": "2021-12-02T11:00:11Z",
+  "8→datePublished": "2021-12-02T11:01:03Z",
+  "8→files→0→contentLength": "24187",
+  "8→files→0→contentType": "text/plain",
+  "8→files→0→index": 0,
+  "8→license": "https://market.oceanprotocol.com/terms",
+  "8→name": "Hackathon Test Data - TNO",
+  "8→type": "dataset",
+  "9→author": "Stefan's Example Organisation",
+  "9→dateCreated": "2021-12-02T10:59:07Z",
+  "9→datePublished": "2021-12-02T11:00:59Z",
+  "9→files→0→contentLength": "24187",
+  "9→files→0→contentType": "text/plain",
+  "9→files→0→index": 0,
+  "9→license": "https://market.oceanprotocol.com/terms",
+  "9→name": "Stefan's Demonstrator Data – GAIA-X Hackathon #2",
+  "9→type": "dataset",
+  "10→author": "3141592",
+  "10→dateCreated": "2021-12-02T11:00:19Z",
+  "10→datePublished": "2021-12-02T11:01:01Z",
+  "10→files→0→contentLength": "24187",
+  "10→files→0→contentType": "text/plain",
+  "10→files→0→index": 0,
+  "10→license": "https://market.oceanprotocol.com/terms",
+  "10→name": "test day1 tutorial ",
+  "10→type": "dataset",
+  "11→author": "deltaDAO AG Demonstrator",
+  "11→dateCreated": "2021-12-02T11:00:09Z",
+  "11→datePublished": "2021-12-02T11:00:57Z",
+  "11→files→0→contentLength": "24187",
+  "11→files→0→contentType": "text/plain",
+  "11→files→0→index": 0,
+  "11→license": "https://market.oceanprotocol.com/terms",
+  "11→name": "Demonstrator Data - Day 1 Tutorial",
+  "11→type": "dataset",
+  "12→author": "Atos SE",
+  "12→dateCreated": "2021-12-01T20:53:30Z",
+  "12→datePublished": "2021-12-01T20:56:10Z",
+  "12→files→0→contentLength": "5258150376",
+  "12→files→0→contentType": "application/x-tar",
+  "12→files→0→index": 0,
+  "12→license": "https://market.oceanprotocol.com/terms",
+  "12→name": "Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Dataset)",
+  "12→type": "dataset",
+  "13→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "13→algorithm→container→image": "deltadao/atos-proof-of-concept",
+  "13→algorithm→container→tag": "latest",
+  "13→algorithm→format": "docker-image",
+  "13→algorithm→language": "com",
+  "13→algorithm→version": "0.1",
+  "13→author": "Atos SE",
+  "13→dateCreated": "2021-12-01T20:51:45Z",
+  "13→datePublished": "2021-12-01T20:52:24Z",
+  "13→files→0→contentLength": "",
+  "13→files→0→contentType": "text/html",
+  "13→files→0→index": 0,
+  "13→license": "https://market.oceanprotocol.com/terms",
+  "13→name": "QUICK - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Algorithm)",
+  "13→type": "algorithm",
+  "14→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "14→algorithm→container→image": "deltadao/orfeo_toolbox",
+  "14→algorithm→container→tag": "v1",
+  "14→algorithm→format": "docker-image",
+  "14→algorithm→language": "com",
+  "14→algorithm→version": "0.1",
+  "14→author": "Atos SE",
+  "14→dateCreated": "2021-12-01T18:24:02Z",
+  "14→datePublished": "2021-12-01T18:24:31Z",
+  "14→files→0→contentLength": "",
+  "14→files→0→contentType": "text/html",
+  "14→files→0→index": 0,
+  "14→license": "https://market.oceanprotocol.com/terms",
+  "14→name": "FULL - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Algorithm)",
+  "14→type": "algorithm",
+  "15→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "15→algorithm→container→image": "deltadao/atos-proof-of-concept",
+  "15→algorithm→container→tag": "latest",
+  "15→algorithm→format": "docker-image",
+  "15→algorithm→language": "com",
+  "15→algorithm→version": "0.1",
+  "15→author": "Atos SE",
+  "15→dateCreated": "2021-12-01T18:19:42Z",
+  "15→datePublished": "2021-12-01T18:20:20Z",
+  "15→files→0→contentLength": "",
+  "15→files→0→contentType": "text/html",
+  "15→files→0→index": 0,
+  "15→license": "https://market.oceanprotocol.com/terms",
+  "15→name": "QUICK - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Algorithm)",
+  "15→type": "algorithm",
+  "16→author": "Atos SE",
+  "16→dateCreated": "2021-12-01T18:13:12Z",
+  "16→datePublished": "2021-12-01T18:33:47Z",
+  "16→files→0→contentLength": "5258150376",
+  "16→files→0→contentType": "application/x-tar",
+  "16→files→0→index": 0,
+  "16→license": "https://market.oceanprotocol.com/terms",
+  "16→name": "Copernicus Sentinel Data Fusion with CNES Orfeo toolbox (Dataset)",
+  "16→type": "dataset",
+  "17→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "17→algorithm→container→image": "deltadao/atos-proof-of-concept",
+  "17→algorithm→container→tag": "latest",
+  "17→algorithm→format": "docker-image",
+  "17→algorithm→language": "com",
+  "17→algorithm→version": "0.1",
+  "17→author": "Test Author",
+  "17→dateCreated": "2021-12-01T17:45:53Z",
+  "17→datePublished": "2021-12-01T17:46:27Z",
+  "17→files→0→contentLength": "",
+  "17→files→0→contentType": "text/html",
+  "17→files→0→index": 0,
+  "17→license": "https://market.oceanprotocol.com/terms",
+  "17→name": "Provider tests",
+  "17→type": "algorithm",
+  "18→author": "Test Author",
+  "18→dateCreated": "2021-12-01T17:42:21Z",
+  "18→datePublished": "2021-12-01T17:48:53Z",
+  "18→files→0→contentLength": "5258150376",
+  "18→files→0→contentType": "application/x-tar",
+  "18→files→0→index": 0,
+  "18→license": "https://market.oceanprotocol.com/terms",
+  "18→name": "Provider test",
+  "18→type": "dataset",
+  "19→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "19→algorithm→container→image": "deltadao/bids-example",
+  "19→algorithm→container→tag": "latest",
+  "19→algorithm→format": "docker-image",
+  "19→algorithm→language": "com",
+  "19→algorithm→version": "0.1",
+  "19→author": "Test Author",
+  "19→dateCreated": "2021-12-01T17:18:47Z",
+  "19→datePublished": "2021-12-01T17:19:40Z",
+  "19→files→0→contentLength": "",
+  "19→files→0→contentType": "text/html",
+  "19→files→0→index": 0,
+  "19→license": "https://market.oceanprotocol.com/terms",
+  "19→name": "Bids test",
+  "19→type": "algorithm",
+  "20→author": "Test Author",
+  "20→dateCreated": "2021-12-01T17:11:34Z",
+  "20→datePublished": "2021-12-01T17:23:50Z",
+  "20→files→0→contentLength": "5258150376",
+  "20→files→0→contentType": "application/x-tar",
+  "20→files→0→index": 0,
+  "20→license": "https://market.oceanprotocol.com/terms",
+  "20→name": "Test Dataset",
+  "20→type": "dataset",
+  "21→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "21→algorithm→container→image": "deltadao/forever",
+  "21→algorithm→container→tag": "latest",
+  "21→algorithm→format": "docker-image",
+  "21→algorithm→language": "com",
+  "21→algorithm→version": "0.1",
+  "21→author": "Test Author",
+  "21→dateCreated": "2021-12-01T13:19:19Z",
+  "21→datePublished": "2021-12-01T13:19:49Z",
+  "21→files→0→contentLength": "",
+  "21→files→0→contentType": "text/html",
+  "21→files→0→index": 0,
+  "21→license": "https://market.oceanprotocol.com/terms",
+  "21→name": "Foreverontheblockchain Algorithm",
+  "21→type": "algorithm",
+  "22→author": "Test Author",
+  "22→dateCreated": "2021-12-01T13:14:08Z",
+  "22→datePublished": "2021-12-01T14:52:59Z",
+  "22→files→0→contentLength": "815283",
+  "22→files→0→contentType": "text/csv",
+  "22→files→0→index": 0,
+  "22→license": "https://market.oceanprotocol.com/terms",
+  "22→name": "Foreverontheblockchain Dataset",
+  "22→type": "dataset",
+  "23→algorithm→container→entrypoint": "./detect-inputs.sh",
+  "23→algorithm→container→image": "deltadao/yolov5",
+  "23→algorithm→container→tag": "latest",
+  "23→algorithm→format": "docker-image",
+  "23→algorithm→language": "com",
+  "23→algorithm→version": "0.1",
+  "23→author": "Test Author",
+  "23→dateCreated": "2021-12-01T13:04:06Z",
+  "23→datePublished": "2021-12-01T13:04:42Z",
+  "23→files→0→contentLength": "",
+  "23→files→0→contentType": "text/html",
+  "23→files→0→index": 0,
+  "23→license": "https://market.oceanprotocol.com/terms",
+  "23→name": "Yolov5 Algorithm",
+  "23→type": "algorithm",
+  "24→author": "Test Author",
+  "24→dateCreated": "2021-12-01T12:58:02Z",
+  "24→datePublished": "2021-12-01T16:11:09Z",
+  "24→files→0→contentLength": "15833341",
+  "24→files→0→contentType": "application/zip",
+  "24→files→0→index": 0,
+  "24→license": "https://market.oceanprotocol.com/terms",
+  "24→name": "Yolov5 Dataset examples",
+  "24→type": "dataset",
+  "25→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "25→algorithm→container→image": "deltadao/atos-proof-of-concept",
+  "25→algorithm→container→tag": "latest",
+  "25→algorithm→format": "docker-image",
+  "25→algorithm→language": "eu/",
+  "25→algorithm→version": "0.1",
+  "25→author": "Atos SE",
+  "25→dateCreated": "2021-12-01T12:43:42Z",
+  "25→datePublished": "2021-12-01T13:28:33Z",
+  "25→files→0→contentLength": "0",
+  "25→files→0→contentType": "text/html",
+  "25→files→0→index": 0,
+  "25→license": "https://market.oceanprotocol.com/terms",
+  "25→name": "QUICK - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox",
+  "25→type": "algorithm",
+  "26→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "26→algorithm→container→image": "deltadao/orfeo_toolbox",
+  "26→algorithm→container→tag": "v1",
+  "26→algorithm→format": "docker-image",
+  "26→algorithm→language": "sh",
+  "26→algorithm→version": "0.1",
+  "26→author": "Test Author",
+  "26→dateCreated": "2021-12-01T12:34:27Z",
+  "26→datePublished": "2021-12-01T16:20:47Z",
+  "26→files→0→contentLength": "1488",
+  "26→files→0→contentType": "text/x-sh",
+  "26→files→0→index": 0,
+  "26→license": "https://market.oceanprotocol.com/terms",
+  "26→name": "FULL - Copernicus Sentinel Data Fusion with CNES Orfeo toolbox",
+  "26→type": "algorithm",
+  "27→author": "Test Author",
+  "27→dateCreated": "2021-12-01T12:29:53Z",
+  "27→datePublished": "2021-12-01T16:19:53Z",
+  "27→files→0→contentLength": "5258150376",
+  "27→files→0→contentType": "application/x-tar",
+  "27→files→0→index": 0,
+  "27→license": "https://market.oceanprotocol.com/terms",
+  "27→name": "Data Fusion Dataset - Copernicus Sentinel-1 SLC IW and Sentinel 2 L2A ",
+  "27→type": "dataset",
+  "28→author": "Jordi Gené-Mola; Ricardo Sanz-Cortiella; Joan R. Rosell-Polo; Alexandre Escolà; Eduard Gregorio",
+  "28→dateCreated": "2021-12-01T12:08:56Z",
+  "28→datePublished": "2021-12-01T12:09:34Z",
+  "28→files→0→contentLength": "",
+  "28→files→0→contentType": "text/plain",
+  "28→files→0→index": 0,
+  "28→license": "https://market.oceanprotocol.com/terms",
+  "28→name": "4-apples_GT_diameter_and_centre.txt",
+  "28→type": "dataset",
+  "29→author": "testAuthor",
+  "29→dateCreated": "2021-11-29T16:25:05Z",
+  "29→datePublished": "2021-11-29T16:25:43Z",
+  "29→files→0→contentLength": "24187",
+  "29→files→0→contentType": "text/plain",
+  "29→files→0→index": 0,
+  "29→license": "https://market.oceanprotocol.com/terms",
+  "29→name": "Test Science Dataset",
+  "29→type": "dataset",
+  "30→author": "testAuthor",
+  "30→dateCreated": "2021-11-29T16:15:43Z",
+  "30→datePublished": "2021-11-29T16:16:31Z",
+  "30→files→0→contentLength": "24187",
+  "30→files→0→contentType": "text/plain",
+  "30→files→0→index": 0,
+  "30→license": "https://market.oceanprotocol.com/terms",
+  "30→name": "My Science Test Dataset",
+  "30→type": "dataset",
+  "31→author": "safeFBDC",
+  "31→dateCreated": "2021-11-25T18:26:35Z",
+  "31→datePublished": "2021-12-02T00:22:47Z",
+  "31→files→0→checksum": "b06e1cad5020dc33f7d838eaaa4955746c2ef21f6846156faebe6c1ace8d7f99",
+  "31→files→0→checksumType": "sha256",
+  "31→files→0→contentLength": "3924183",
+  "31→files→0→contentType": "text/csv",
+  "31→files→0→index": 0,
+  "31→license": "https://market.oceanprotocol.com/terms",
+  "31→name": "safeFBDC - Pooled Dataset",
+  "31→type": "dataset",
+  "32→algorithm→container→entrypoint": "./algo/docker-entrypoint.sh",
+  "32→algorithm→container→image": "deltadao/fbdc",
+  "32→algorithm→container→tag": "algov1.0",
+  "32→algorithm→format": "docker-image",
+  "32→algorithm→language": "json",
+  "32→algorithm→version": "0.1",
+  "32→author": "safeFBDC",
+  "32→dateCreated": "2021-11-25T18:21:46Z",
+  "32→datePublished": "2021-12-02T00:20:57Z",
+  "32→files→0→checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
+  "32→files→0→checksumType": "sha256",
+  "32→files→0→contentLength": "471",
+  "32→files→0→contentType": "application/json",
+  "32→files→0→index": 0,
+  "32→license": "https://market.oceanprotocol.com/terms",
+  "32→name": "safeFBDC - AML Algorithm",
+  "32→type": "algorithm",
+  "33→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "33→algorithm→container→image": "deltadao/fbdc",
+  "33→algorithm→container→tag": "combinev1.0",
+  "33→algorithm→format": "docker-image",
+  "33→algorithm→language": "json",
+  "33→algorithm→version": "0.1",
+  "33→author": "safeFBDC",
+  "33→dateCreated": "2021-11-25T17:33:48Z",
+  "33→datePublished": "2021-12-02T00:21:52Z",
+  "33→files→0→checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
+  "33→files→0→checksumType": "sha256",
+  "33→files→0→contentLength": "471",
+  "33→files→0→contentType": "application/json",
+  "33→files→0→index": 0,
+  "33→license": "https://market.oceanprotocol.com/terms",
+  "33→name": "safeFBDC - Pooling Algorithm",
+  "33→type": "algorithm",
+  "34→author": "Bank B",
+  "34→dateCreated": "2021-11-25T16:42:08Z",
+  "34→datePublished": "2021-12-02T00:16:17Z",
+  "34→files→0→checksum": "687079814fc39cfa4c0e7a0bbd8d8ba97ae488658ff9684398903d107c81c093",
+  "34→files→0→checksumType": "sha256",
+  "34→files→0→contentLength": "671418",
+  "34→files→0→contentType": "application/zip",
+  "34→files→0→index": 0,
+  "34→license": "https://market.oceanprotocol.com/terms",
+  "34→name": "Bank B - Financial Dataset",
+  "34→type": "dataset",
+  "35→author": "Bank A",
+  "35→dateCreated": "2021-11-25T16:27:03Z",
+  "35→datePublished": "2021-12-02T00:14:56Z",
+  "35→files→0→checksum": "a2f45512c60394508c2b50261d3e443faf9574e0ede56db2c840041aa7370e08",
+  "35→files→0→checksumType": "sha256",
+  "35→files→0→contentLength": "730783",
+  "35→files→0→contentType": "application/zip",
+  "35→files→0→index": 0,
+  "35→license": "https://market.oceanprotocol.com/terms",
+  "35→name": "Bank A - Financial Dataset",
+  "35→type": "dataset",
+  "36→author": "Test Author",
+  "36→dateCreated": "2021-11-25T16:23:17Z",
+  "36→datePublished": "2021-11-25T16:23:48Z",
+  "36→files→0→checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
+  "36→files→0→checksumType": "sha256",
+  "36→files→0→contentLength": "471",
+  "36→files→0→contentType": "application/json",
+  "36→files→0→index": 0,
+  "36→license": "https://market.oceanprotocol.com/terms",
+  "36→name": "Test Bank A",
+  "36→type": "dataset",
+  "37→author": "Test Author",
+  "37→dateCreated": "2021-11-25T16:21:05Z",
+  "37→datePublished": "2021-11-25T16:21:48Z",
+  "37→files→0→checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
+  "37→files→0→checksumType": "sha256",
+  "37→files→0→contentLength": "471",
+  "37→files→0→contentType": "application/json",
+  "37→files→0→index": 0,
+  "37→license": "https://market.oceanprotocol.com/terms",
+  "37→name": "Test Dataset Bank b",
+  "37→type": "dataset",
+  "38→author": "Test Author",
+  "38→dateCreated": "2021-11-25T16:18:34Z",
+  "38→datePublished": "2021-11-25T16:19:10Z",
+  "38→files→0→checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
+  "38→files→0→checksumType": "sha256",
+  "38→files→0→contentLength": "471",
+  "38→files→0→contentType": "application/json",
+  "38→files→0→index": 0,
+  "38→license": "https://market.oceanprotocol.com/terms",
+  "38→name": "Test Dataset",
+  "38→type": "dataset",
+  "39→author": "Test",
+  "39→dateCreated": "2021-11-23T17:27:06Z",
+  "39→datePublished": "2021-11-23T17:31:05Z",
+  "39→files→0→contentLength": "",
+  "39→files→0→contentType": "application/json",
+  "39→files→0→index": 0,
+  "39→license": "https://market.oceanprotocol.com/terms",
+  "39→name": "CTD Test",
+  "39→type": "dataset",
+  "40→author": "Test",
+  "40→dateCreated": "2021-11-23T17:25:36Z",
+  "40→datePublished": "2021-11-23T17:26:22Z",
+  "40→files→0→contentLength": "",
+  "40→files→0→contentType": "application/json",
+  "40→files→0→index": 0,
+  "40→license": "https://market.oceanprotocol.com/terms",
+  "40→name": "CTD Test",
+  "40→type": "dataset",
+  "41→author": "All",
+  "41→dateCreated": "2020-12-17T13:38:49Z",
+  "41→datePublished": "2021-11-23T14:38:43Z",
+  "41→files→0→checksum": "efb2c764274b745f5fc37f97c6b0e764",
+  "41→files→0→compression": "zip",
+  "41→files→0→contentLength": "4535431",
+  "41→files→0→contentType": "text/csv",
+  "41→files→0→encoding": "UTF-8",
+  "41→files→0→index": 0,
+  "41→license": "CC-BY",
+  "41→name": "Demo1",
+  "41→type": "dataset",
+  "42→author": "mr. test",
+  "42→dateCreated": "2021-11-20T12:19:53Z",
+  "42→datePublished": "2021-11-20T15:45:47Z",
+  "42→files→0→contentLength": "24187",
+  "42→files→0→contentType": "text/plain",
+  "42→files→0→index": 0,
+  "42→license": "https://market.oceanprotocol.com/terms",
+  "42→name": "Test Data",
+  "42→type": "dataset",
+  "43→author": "Jendo Kahn",
+  "43→dateCreated": "2021-11-19T18:25:50Z",
+  "43→datePublished": "2021-11-19T18:26:12Z",
+  "43→files→0→contentLength": "",
+  "43→files→0→contentType": "application/json",
+  "43→files→0→index": 0,
+  "43→license": "https://market.oceanprotocol.com/terms",
+  "43→name": "Nope",
+  "43→type": "dataset",
+  "44→algorithm→container→entrypoint": "node $ALGO",
+  "44→algorithm→container→image": "node",
+  "44→algorithm→container→tag": "latest",
+  "44→algorithm→format": "docker-image",
+  "44→algorithm→language": "js",
+  "44→algorithm→version": "0.1",
+  "44→author": "Test Author",
+  "44→dateCreated": "2021-11-17T14:58:27Z",
+  "44→datePublished": "2021-11-17T14:58:57Z",
+  "44→files→0→checksum": "cbd7b9964fa887f5f3acd48d2312435da2e351fa0c4689169b53ae2ec2014173",
+  "44→files→0→checksumType": "sha256",
+  "44→files→0→contentLength": "2025",
+  "44→files→0→contentType": "text/plain",
+  "44→files→0→index": 0,
+  "44→license": "https://market.oceanprotocol.com/terms",
+  "44→name": "Test Algorithm Provider gm4",
+  "44→type": "algorithm",
+  "45→author": "Test Author",
+  "45→dateCreated": "2021-11-17T13:30:07Z",
+  "45→datePublished": "2021-11-17T13:39:02Z",
+  "45→files→0→checksum": "d17d72eab23079813a72886e3a0c33ede039911891b82c37233dc1773f71d7dc",
+  "45→files→0→checksumType": "sha256",
+  "45→files→0→contentLength": "231",
+  "45→files→0→contentType": "text/plain",
+  "45→files→0→index": 0,
+  "45→license": "https://market.oceanprotocol.com/terms",
+  "45→name": "weather Data Sample Hashed",
+  "45→type": "dataset",
+  "46→author": "Test Author",
+  "46→dateCreated": "2021-11-17T11:41:38Z",
+  "46→datePublished": "2021-11-17T15:10:49Z",
+  "46→files→0→checksum": "dc3b5b4208fbf9cfc24ff32906f7a081324a04b2afcea23694512ecb755ff155",
+  "46→files→0→checksumType": "sha256",
+  "46→files→0→contentLength": "24187",
+  "46→files→0→contentType": "text/plain",
+  "46→files→0→index": 0,
+  "46→license": "https://market.oceanprotocol.com/terms",
+  "46→name": "Weather Data Hashed",
+  "46→type": "dataset",
+  "47→author": "testAuthor",
+  "47→dateCreated": "2021-11-17T03:55:19Z",
+  "47→datePublished": "2021-11-17T03:56:18Z",
+  "47→files→0→checksum": "dc3b5b4208fbf9cfc24ff32906f7a081324a04b2afcea23694512ecb755ff155",
+  "47→files→0→checksumType": "sha256",
+  "47→files→0→contentLength": "24187",
+  "47→files→0→contentType": "text/plain",
+  "47→files→0→index": 0,
+  "47→license": "https://market.oceanprotocol.com/terms",
+  "47→name": "Test: Weather Dataset",
+  "47→type": "dataset",
+  "48→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "48→algorithm→container→image": "deltadao/fbdc",
+  "48→algorithm→container→tag": "latest",
+  "48→algorithm→format": "docker-image",
+  "48→algorithm→language": "json",
+  "48→algorithm→version": "0.1",
+  "48→author": "Test Author",
+  "48→dateCreated": "2021-11-16T23:48:32Z",
+  "48→datePublished": "2021-11-16T23:49:17Z",
+  "48→files→0→contentLength": "473",
+  "48→files→0→contentType": "application/json",
+  "48→files→0→index": 0,
+  "48→license": "https://market.oceanprotocol.com/terms",
+  "48→name": "Test Weather Combine Algorithm",
+  "48→type": "algorithm",
+  "49→author": "Test Author",
+  "49→dateCreated": "2021-11-16T23:19:46Z",
+  "49→datePublished": "2021-11-16T23:21:53Z",
+  "49→files→0→contentLength": "471",
+  "49→files→0→contentType": "application/json",
+  "49→files→0→index": 0,
+  "49→license": "https://market.oceanprotocol.com/terms",
+  "49→name": "Sample Weather Data",
+  "49→type": "dataset",
+  "50→algorithm→container→entrypoint": "node $ALGO",
+  "50→algorithm→container→image": "node",
+  "50→algorithm→container→tag": "latest",
+  "50→algorithm→format": "docker-image",
+  "50→algorithm→language": "sh",
+  "50→algorithm→version": "0.1",
+  "50→author": "Test Author",
+  "50→dateCreated": "2021-11-16T23:15:24Z",
+  "50→datePublished": "2021-11-16T23:15:57Z",
+  "50→files→0→contentLength": "1494",
+  "50→files→0→contentType": "text/x-sh",
+  "50→files→0→index": 0,
+  "50→license": "https://market.oceanprotocol.com/terms",
+  "50→name": "Weather Algo Combinded",
+  "50→type": "algorithm",
+  "51→algorithm→container→entrypoint": "node $ALGO",
+  "51→algorithm→container→image": "node",
+  "51→algorithm→container→tag": "latest",
+  "51→algorithm→format": "docker-image",
+  "51→algorithm→language": "sh",
+  "51→algorithm→version": "0.1",
+  "51→author": "Test Author",
+  "51→dateCreated": "2021-11-16T23:09:41Z",
+  "51→datePublished": "2021-11-16T23:10:15Z",
+  "51→files→0→contentLength": "1494",
+  "51→files→0→contentType": "text/x-sh",
+  "51→files→0→index": 0,
+  "51→license": "https://market.oceanprotocol.com/terms",
+  "51→name": "Test combine",
+  "51→type": "algorithm",
+  "52→author": "Test Author",
+  "52→dateCreated": "2021-11-16T22:26:06Z",
+  "52→datePublished": "2021-11-17T20:23:37Z",
+  "52→files→0→contentLength": "231",
+  "52→files→0→contentType": "text/plain",
+  "52→files→0→index": 0,
+  "52→license": "https://market.oceanprotocol.com/terms",
+  "52→name": "Example 2",
+  "52→type": "dataset",
+  "53→author": "Test Author",
+  "53→dateCreated": "2021-11-16T22:16:22Z",
+  "53→datePublished": "2021-11-17T22:28:22Z",
+  "53→files→0→contentLength": "24187",
+  "53→files→0→contentType": "text/plain",
+  "53→files→0→index": 0,
+  "53→license": "https://market.oceanprotocol.com/terms",
+  "53→name": "Example 1",
+  "53→type": "dataset",
+  "54→algorithm→container→entrypoint": "node $ALGO",
+  "54→algorithm→container→image": "node",
+  "54→algorithm→container→tag": "latest",
+  "54→algorithm→format": "docker-image",
+  "54→algorithm→language": "js",
+  "54→algorithm→version": "0.1",
+  "54→author": "Test Author",
+  "54→dateCreated": "2021-11-16T17:12:11Z",
+  "54→datePublished": "2021-11-16T17:12:40Z",
+  "54→files→0→contentLength": "2025",
+  "54→files→0→contentType": "text/plain",
+  "54→files→0→index": 0,
+  "54→license": "https://market.oceanprotocol.com/terms",
+  "54→name": "Weather Algo ",
+  "54→type": "algorithm",
+  "55→author": "Test Author",
+  "55→dateCreated": "2021-11-15T15:52:54Z",
+  "55→datePublished": "2021-11-15T15:54:48Z",
+  "55→files→0→contentLength": "",
+  "55→files→0→contentType": "text/html",
+  "55→files→0→index": 0,
+  "55→license": "https://market.oceanprotocol.com/terms",
+  "55→name": "Testing Stuff",
+  "55→type": "dataset",
+  "56→author": "Test Author",
+  "56→dateCreated": "2021-11-15T14:46:54Z",
+  "56→datePublished": "2021-11-17T15:02:04Z",
+  "56→files→0→contentLength": "24187",
+  "56→files→0→contentType": "text/plain",
+  "56→files→0→index": 0,
+  "56→license": "https://market.oceanprotocol.com/terms",
+  "56→name": "Test",
+  "56→type": "dataset",
+  "57→algorithm→container→entrypoint": "node $ALGO",
+  "57→algorithm→container→image": "node",
+  "57→algorithm→container→tag": "latest",
+  "57→algorithm→format": "docker-image",
+  "57→algorithm→language": "js",
+  "57→algorithm→version": "0.1",
+  "57→author": "Test Author",
+  "57→dateCreated": "2021-11-15T14:39:15Z",
+  "57→datePublished": "2021-11-15T14:39:55Z",
+  "57→files→0→contentLength": "2025",
+  "57→files→0→contentType": "text/plain",
+  "57→files→0→index": 0,
+  "57→license": "https://market.oceanprotocol.com/terms",
+  "57→name": "Multi Provider Algorithm Testing",
+  "57→type": "algorithm",
+  "58→algorithm→container→entrypoint": "node $ALGO",
+  "58→algorithm→container→image": "node",
+  "58→algorithm→container→tag": "latest",
+  "58→algorithm→format": "docker-image",
+  "58→algorithm→language": "js",
+  "58→algorithm→version": "0.1",
+  "58→author": "Test Author",
+  "58→dateCreated": "2021-11-15T14:31:32Z",
+  "58→datePublished": "2021-11-15T14:31:58Z",
+  "58→files→0→contentLength": "2025",
+  "58→files→0→contentType": "text/plain",
+  "58→files→0→index": 0,
+  "58→license": "https://market.oceanprotocol.com/terms",
+  "58→name": "Multi Provider Algorithm Test",
+  "58→type": "algorithm",
+  "59→algorithm→container→entrypoint": "node $ALGO",
+  "59→algorithm→container→image": "node",
+  "59→algorithm→container→tag": "latest",
+  "59→algorithm→format": "docker-image",
+  "59→algorithm→language": "js",
+  "59→algorithm→version": "0.1",
+  "59→author": "Test Author",
+  "59→dateCreated": "2021-11-15T14:23:00Z",
+  "59→datePublished": "2021-11-15T14:23:28Z",
+  "59→files→0→contentLength": "2025",
+  "59→files→0→contentType": "text/plain",
+  "59→files→0→index": 0,
+  "59→license": "https://market.oceanprotocol.com/terms",
+  "59→name": "Multi Provider Algorithm",
+  "59→type": "algorithm",
+  "60→author": "Test Author",
+  "60→dateCreated": "2021-11-15T13:05:19Z",
+  "60→datePublished": "2021-11-16T20:03:30Z",
+  "60→files→0→contentLength": "24187",
+  "60→files→0→contentType": "text/plain",
+  "60→files→0→index": 0,
+  "60→license": "https://market.oceanprotocol.com/terms",
+  "60→name": "Test multi Provider",
+  "60→type": "dataset",
+  "61→algorithm→container→entrypoint": "node $ALGO",
+  "61→algorithm→container→image": "node",
+  "61→algorithm→container→tag": "latest",
+  "61→algorithm→format": "docker-image",
+  "61→algorithm→language": "js",
+  "61→algorithm→version": "0.1",
+  "61→author": "testAuthor",
+  "61→dateCreated": "2021-11-13T19:11:58Z",
+  "61→datePublished": "2021-11-13T19:12:47Z",
+  "61→files→0→contentLength": "2025",
+  "61→files→0→contentType": "text/plain",
+  "61→files→0→index": 0,
+  "61→license": "https://market.oceanprotocol.com/terms",
+  "61→name": "Sample Weather Algorithm",
+  "61→type": "algorithm",
+  "62→author": "Test Author",
+  "62→dateCreated": "2021-11-13T15:18:31Z",
+  "62→datePublished": "2021-11-17T14:52:12Z",
+  "62→files→0→contentLength": "",
+  "62→files→0→contentType": "text/html",
+  "62→files→0→index": 0,
+  "62→license": "https://market.oceanprotocol.com/terms",
+  "62→name": "Sample Dataset",
+  "62→type": "dataset",
+  "63→algorithm→container→entrypoint": "node $ALGO",
+  "63→algorithm→container→image": "node",
+  "63→algorithm→container→tag": "latest",
+  "63→algorithm→format": "docker-image",
+  "63→algorithm→language": "js",
+  "63→algorithm→version": "0.1",
+  "63→author": "Test Author",
+  "63→dateCreated": "2021-11-13T15:09:48Z",
+  "63→datePublished": "2021-11-13T15:15:37Z",
+  "63→files→0→contentLength": "2025",
+  "63→files→0→contentType": "text/plain",
+  "63→files→0→index": 0,
+  "63→license": "https://market.oceanprotocol.com/terms",
+  "63→name": "Sample Weather Algorithm",
+  "63→type": "algorithm",
+  "64→algorithm→container→entrypoint": "node $ALGO",
+  "64→algorithm→container→image": "node",
+  "64→algorithm→container→tag": "latest",
+  "64→algorithm→format": "docker-image",
+  "64→algorithm→language": "js",
+  "64→algorithm→version": "0.1",
+  "64→author": "testAuthor",
+  "64→dateCreated": "2021-11-12T20:31:30Z",
+  "64→datePublished": "2021-11-17T20:25:40Z",
+  "64→files→0→contentLength": "",
+  "64→files→0→contentType": "text/html",
+  "64→files→0→index": 0,
+  "64→license": "https://market.oceanprotocol.com/terms",
+  "64→name": "Broken Test",
+  "64→type": "algorithm",
+  "65→algorithm→container→entrypoint": "node $ALGO",
+  "65→algorithm→container→image": "node",
+  "65→algorithm→container→tag": "latest",
+  "65→algorithm→format": "docker-image",
+  "65→algorithm→language": "js",
+  "65→algorithm→version": "0.1",
+  "65→author": "testAuthor",
+  "65→dateCreated": "2021-11-12T19:25:27Z",
+  "65→datePublished": "2021-11-12T20:36:16Z",
+  "65→files→0→contentLength": "1240",
+  "65→files→0→contentType": "text/plain",
+  "65→files→0→index": 0,
+  "65→license": "https://market.oceanprotocol.com/terms",
+  "65→name": "Sample Count Rows Algorithm",
+  "65→type": "algorithm",
+  "66→author": "testAuthor",
+  "66→dateCreated": "2021-11-12T19:22:38Z",
+  "66→datePublished": "2021-11-15T04:46:30Z",
+  "66→files→0→contentLength": "24187",
+  "66→files→0→contentType": "text/plain",
+  "66→files→0→index": 0,
+  "66→license": "https://market.oceanprotocol.com/terms",
+  "66→name": "Weather Sample Data",
+  "66→type": "dataset",
+  "67→author": "testAuthor",
+  "67→dateCreated": "2021-11-12T19:20:05Z",
+  "67→datePublished": "2021-11-12T19:20:32Z",
+  "67→files→0→contentLength": "24187",
+  "67→files→0→contentType": "text/plain",
+  "67→files→0→index": 0,
+  "67→license": "https://market.oceanprotocol.com/terms",
+  "67→name": "Weather Sample Data",
+  "67→type": "dataset",
+  "68→author": "Kiu",
+  "68→dateCreated": "2021-11-12T11:35:59Z",
+  "68→datePublished": "2021-11-12T11:36:57Z",
+  "68→files→0→contentLength": "",
+  "68→files→0→contentType": "application/json",
+  "68→files→0→index": 0,
+  "68→license": "https://market.oceanprotocol.com/terms",
+  "68→name": "Wether Test",
+  "68→type": "dataset",
+  "69→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "69→algorithm→container→image": "deltadao/forever",
+  "69→algorithm→container→tag": "latest",
+  "69→algorithm→format": "docker-image",
+  "69→algorithm→language": "csv",
+  "69→algorithm→version": "0.1",
+  "69→author": "Test Author",
+  "69→dateCreated": "2021-11-10T13:44:06Z",
+  "69→datePublished": "2021-11-10T13:44:48Z",
+  "69→files→0→contentLength": "815283",
+  "69→files→0→contentType": "text/csv",
+  "69→files→0→index": 0,
+  "69→license": "https://market.oceanprotocol.com/terms",
+  "69→name": "Rscript Algorithm Container",
+  "69→type": "algorithm",
+  "70→author": "Test Author",
+  "70→dateCreated": "2021-11-10T13:42:18Z",
+  "70→datePublished": "2021-11-10T13:46:34Z",
+  "70→files→0→contentLength": "815283",
+  "70→files→0→contentType": "text/csv",
+  "70→files→0→index": 0,
+  "70→license": "https://market.oceanprotocol.com/terms",
+  "70→name": "Rscript Dataset",
+  "70→type": "dataset",
+  "71→algorithm→container→entrypoint": "./detect-inputs.sh",
+  "71→algorithm→container→image": "deltadao/yolov5",
+  "71→algorithm→container→tag": "latest",
+  "71→algorithm→format": "docker-image",
+  "71→algorithm→language": "jpeg",
+  "71→algorithm→version": "0.1",
+  "71→author": "deltaDAO AG 🚀",
+  "71→dateCreated": "2021-11-09T23:32:58Z",
+  "71→datePublished": "2021-11-10T02:33:07Z",
+  "71→files→0→contentLength": "78625",
+  "71→files→0→contentType": "image/jpeg",
+  "71→files→0→index": 0,
+  "71→license": "https://market.oceanprotocol.com/terms",
+  "71→name": "🚜 Object Classification Algorithm",
+  "71→type": "algorithm",
+  "72→author": "test author",
+  "72→dateCreated": "2021-11-09T23:28:48Z",
+  "72→datePublished": "2021-11-18T00:19:52Z",
+  "72→files→0→contentLength": "15833341",
+  "72→files→0→contentType": "application/zip",
+  "72→files→0→index": 0,
+  "72→license": "https://market.oceanprotocol.com/terms",
+  "72→name": "🖼 Image Classification Sample Data ",
+  "72→type": "dataset",
+  "73→author": "Agri-Gaia",
+  "73→dateCreated": "2021-11-07T08:33:23Z",
+  "73→datePublished": "2021-11-07T08:33:29Z",
+  "73→files→0→contentLength": "6016",
+  "73→files→0→contentType": "text/html",
+  "73→files→0→index": 0,
+  "73→license": "https://market.oceanprotocol.com/terms",
+  "73→name": "Agri-Gaia Logo",
+  "73→type": "dataset",
+  "74→author": "Perrin GRANDNE",
+  "74→dateCreated": "2021-11-04T10:55:05Z",
+  "74→datePublished": "2021-11-04T10:55:38Z",
+  "74→files→0→contentLength": "0",
+  "74→files→0→contentType": "text/html",
+  "74→files→0→index": 0,
+  "74→license": "https://market.oceanprotocol.com/terms",
+  "74→name": "Dataset test Jours fériés en France",
+  "74→type": "dataset",
+  "75→author": "rogargon",
+  "75→dateCreated": "2021-11-04T09:16:10Z",
+  "75→datePublished": "2021-11-04T09:17:00Z",
+  "75→files→0→contentLength": "3456",
+  "75→files→0→contentType": "application/json",
+  "75→files→0→index": 0,
+  "75→license": "https://market.oceanprotocol.com/terms",
+  "75→name": "BESDUI Dataset Metadata",
+  "75→type": "dataset",
+  "76→author": "Perrin GRANDNE",
+  "76→dateCreated": "2021-11-03T15:53:14Z",
+  "76→datePublished": "2021-11-04T09:01:14Z",
+  "76→files→0→contentLength": "0",
+  "76→files→0→contentType": "text/html",
+  "76→files→0→index": 0,
+  "76→license": "https://market.oceanprotocol.com/terms",
+  "76→name": "test PG",
+  "76→type": "dataset",
+  "77→author": "Perrin GRANDNE",
+  "77→dateCreated": "2021-11-03T14:58:16Z",
+  "77→datePublished": "2021-11-03T14:59:01Z",
+  "77→files→0→contentLength": "0",
+  "77→files→0→contentType": "text/html",
+  "77→files→0→index": 0,
+  "77→license": "https://market.oceanprotocol.com/terms",
+  "77→name": "Publishing Test PG",
+  "77→type": "dataset",
+  "78→author": "Alessandro Rosetti",
+  "78→dateCreated": "2021-11-03T10:06:46Z",
+  "78→datePublished": "2021-11-03T10:22:52Z",
+  "78→files→0→contentLength": "",
+  "78→files→0→contentType": "text/html",
+  "78→files→0→index": 0,
+  "78→license": "https://market.oceanprotocol.com/terms",
+  "78→name": "🐱 Cat dataset",
+  "78→type": "dataset",
+  "79→author": "Jan van de NS",
+  "79→dateCreated": "2021-11-02T19:57:14Z",
+  "79→datePublished": "2021-11-02T20:13:04Z",
+  "79→files→0→contentLength": "24187",
+  "79→files→0→contentType": "text/plain",
+  "79→files→0→index": 0,
+  "79→license": "https://market.oceanprotocol.com/terms",
+  "79→name": "NL Railway usage data - test",
+  "79→type": "dataset",
+  "80→author": "Demonstrator",
+  "80→dateCreated": "2021-10-29T11:38:56Z",
+  "80→datePublished": "2021-10-29T11:46:15Z",
+  "80→files→0→contentLength": "24187",
+  "80→files→0→contentType": "text/plain",
+  "80→files→0→index": 0,
+  "80→license": "https://market.oceanprotocol.com/terms",
+  "80→name": "Demonstrator Data 📁 A European Data Economy in 2021",
+  "80→type": "dataset",
+  "81→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "81→algorithm→container→image": "deltadao/data_union",
+  "81→algorithm→container→tag": "latest",
+  "81→algorithm→format": "docker-image",
+  "81→algorithm→language": "png",
+  "81→algorithm→version": "0.1",
+  "81→author": "Test Author",
+  "81→dateCreated": "2021-10-27T10:27:13Z",
+  "81→datePublished": "2021-10-27T10:27:45Z",
+  "81→files→0→contentLength": "2380973",
+  "81→files→0→contentType": "image/png",
+  "81→files→0→index": 0,
+  "81→license": "https://market.oceanprotocol.com/terms",
+  "81→name": "GPU Algotest",
+  "81→type": "algorithm",
+  "82→author": "Test Author",
+  "82→dateCreated": "2021-10-27T09:47:33Z",
+  "82→datePublished": "2021-11-04T15:25:25Z",
+  "82→files→0→contentLength": "8679039",
+  "82→files→0→contentType": "application/zip",
+  "82→files→0→index": 0,
+  "82→license": "https://market.oceanprotocol.com/terms",
+  "82→name": "Test use case dataset",
+  "82→type": "dataset",
+  "83→author": "John Doe",
+  "83→dateCreated": "2021-10-15T09:13:12Z",
+  "83→datePublished": "2021-10-15T09:14:10Z",
+  "83→files→0→contentLength": "0",
+  "83→files→0→contentType": "application/json",
+  "83→files→0→index": 0,
+  "83→license": "https://market.oceanprotocol.com/terms",
+  "83→name": "Testdata42",
+  "83→type": "dataset",
+  "84→author": "GI Joe",
+  "84→dateCreated": "2021-10-14T13:40:53Z",
+  "84→datePublished": "2021-10-14T13:41:27Z",
+  "84→files→0→contentLength": "0",
+  "84→files→0→contentType": "application/json",
+  "84→files→0→index": 0,
+  "84→license": "https://market.oceanprotocol.com/terms",
+  "84→name": "Best Mojito Recipe ",
+  "84→type": "dataset",
+  "85→author": "GI Joe",
+  "85→dateCreated": "2021-10-14T13:28:34Z",
+  "85→datePublished": "2021-10-14T13:29:16Z",
+  "85→files→0→contentLength": "0",
+  "85→files→0→contentType": "application/json",
+  "85→files→0→index": 0,
+  "85→license": "https://market.oceanprotocol.com/terms",
+  "85→name": "Best Mojito Recipe ",
+  "85→type": "dataset",
+  "86→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "86→algorithm→container→image": "deltadao/catena-x",
+  "86→algorithm→container→tag": "latest",
+  "86→algorithm→format": "docker-image",
+  "86→algorithm→language": "png",
+  "86→algorithm→version": "0.1",
+  "86→author": "Test Author",
+  "86→dateCreated": "2021-10-12T23:09:10Z",
+  "86→datePublished": "2021-10-12T23:09:55Z",
+  "86→files→0→contentLength": "",
+  "86→files→0→contentType": "text/html",
+  "86→files→0→index": 0,
+  "86→license": "https://market.oceanprotocol.com/terms",
+  "86→name": " 🚘 Automotive POC: Traffic Image Annotation Algorithm",
+  "86→type": "algorithm",
+  "87→algorithm→container→entrypoint": "node $ALGO",
+  "87→algorithm→container→image": "node",
+  "87→algorithm→container→tag": "latest",
+  "87→algorithm→format": "docker-image",
+  "87→algorithm→language": "js",
+  "87→algorithm→version": "0.1",
+  "87→author": "test author",
+  "87→dateCreated": "2021-10-11T17:47:32Z",
+  "87→datePublished": "2021-10-11T17:47:57Z",
+  "87→files→0→contentLength": "1240",
+  "87→files→0→contentType": "text/plain",
+  "87→files→0→index": 0,
+  "87→license": "https://market.oceanprotocol.com/terms",
+  "87→name": "Test algorithm",
+  "87→type": "algorithm",
+  "88→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "88→algorithm→container→image": "deltadao/catena-x",
+  "88→algorithm→container→tag": "latest",
+  "88→algorithm→format": "docker-image",
+  "88→algorithm→language": "json",
+  "88→algorithm→version": "0.1",
+  "88→author": "deltaDAO AG",
+  "88→dateCreated": "2021-09-11T14:26:44Z",
+  "88→datePublished": "2021-09-16T09:10:08Z",
+  "88→files→0→contentLength": "231",
+  "88→files→0→contentType": "text/plain",
+  "88→files→0→index": 0,
+  "88→license": "https://market.oceanprotocol.com/terms",
+  "88→name": " 🚘 Automotive POC: Traffic Image Annotation Algorithm",
+  "88→type": "algorithm",
+  "89→author": "deltaDAO AG",
+  "89→dateCreated": "2021-09-11T14:23:22Z",
+  "89→datePublished": "2021-11-18T01:23:13Z",
+  "89→files→0→contentLength": "19595897",
+  "89→files→0→contentType": "application/zip",
+  "89→files→0→index": 0,
+  "89→license": "https://market.oceanprotocol.com/terms",
+  "89→name": " 🚘 Automotive POC: Traffic Image Data",
+  "89→type": "dataset",
+  "90→author": "Alex",
+  "90→dateCreated": "2021-09-11T14:16:10Z",
+  "90→datePublished": "2021-09-16T09:08:15Z",
+  "90→files→0→contentLength": "19595897",
+  "90→files→0→contentType": "application/zip",
+  "90→files→0→index": 0,
+  "90→license": "https://market.oceanprotocol.com/terms",
+  "90→name": "Test Dataset",
+  "90→type": "dataset",
+  "91→author": "Cloud&Heat",
+  "91→dateCreated": "2021-08-31T13:53:47Z",
+  "91→datePublished": "2021-09-16T09:02:28Z",
+  "91→files→0→contentLength": "61585",
+  "91→files→0→contentType": "text/html",
+  "91→files→0→index": 0,
+  "91→license": "https://market.oceanprotocol.com/terms",
+  "91→name": "Cloud&Heat - Heat demand prediction DATASET",
+  "91→type": "dataset",
+  "92→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "92→algorithm→container→image": "deltadao/heat-demand",
+  "92→algorithm→container→tag": "latest",
+  "92→algorithm→format": "docker-image",
+  "92→algorithm→language": "js",
+  "92→algorithm→version": "0.1",
+  "92→author": "Cloud&Heat",
+  "92→dateCreated": "2021-08-31T13:52:44Z",
+  "92→datePublished": "2021-09-16T09:02:21Z",
+  "92→files→0→contentLength": "2025",
+  "92→files→0→contentType": "text/plain",
+  "92→files→0→index": 0,
+  "92→license": "https://market.oceanprotocol.com/terms",
+  "92→name": "Cloud&Heat - Heat demand prediction",
+  "92→type": "algorithm",
+  "93→algorithm→container→entrypoint": "./docker-entrypoint.sh",
+  "93→algorithm→container→image": "deltadao/heat-demand",
+  "93→algorithm→container→tag": "latest",
+  "93→algorithm→format": "docker-image",
+  "93→algorithm→language": "eu",
+  "93→algorithm→version": "0.1",
+  "93→author": "Heat",
+  "93→dateCreated": "2021-08-31T13:08:20Z",
+  "93→datePublished": "2021-09-16T09:02:04Z",
+  "93→files→0→contentLength": "61584",
+  "93→files→0→contentType": "text/html",
+  "93→files→0→index": 0,
+  "93→license": "https://market.oceanprotocol.com/terms",
+  "93→name": "Cloud&Heat - Heat demand prediction",
+  "93→type": "algorithm",
+  "94→algorithm→container→entrypoint": "python3.8 start.py  --model-dir /data/ --model-bucket-dir model",
+  "94→algorithm→container→image": "deltadao/heat-demand",
+  "94→algorithm→container→tag": "latest",
+  "94→algorithm→format": "docker-image",
+  "94→algorithm→language": "json",
+  "94→algorithm→version": "0.1",
+  "94→author": "Heat",
+  "94→dateCreated": "2021-08-31T12:05:56Z",
+  "94→datePublished": "2021-09-16T09:02:02Z",
+  "94→files→0→contentLength": "5112",
+  "94→files→0→contentType": "text/plain",
+  "94→files→0→index": 0,
+  "94→license": "https://market.oceanprotocol.com/terms",
+  "94→name": "Cloud&Heat - Heat demand prediction",
+  "94→type": "algorithm",
+  "95→author": "Heat",
+  "95→dateCreated": "2021-08-31T12:04:56Z",
+  "95→datePublished": "2021-09-16T09:02:09Z",
+  "95→files→0→contentLength": "5112",
+  "95→files→0→contentType": "text/plain",
+  "95→files→0→index": 0,
+  "95→license": "https://market.oceanprotocol.com/terms",
+  "95→name": "Cloud&Heat - Heat demand prediction DATASET",
+  "95→type": "dataset",
+  "96→author": "Bla Blub",
+  "96→dateCreated": "2021-08-31T11:36:34Z",
+  "96→datePublished": "2021-09-16T09:01:52Z",
+  "96→files→0→contentLength": "0",
+  "96→files→0→contentType": "application/json",
+  "96→files→0→index": 0,
+  "96→license": "https://market.oceanprotocol.com/terms",
+  "96→name": "Cocktail Testdata ",
+  "96→type": "dataset",
+  "97→author": "not me",
+  "97→dateCreated": "2021-08-31T11:16:24Z",
+  "97→datePublished": "2021-09-16T09:01:50Z",
+  "97→files→0→contentLength": "648",
+  "97→files→0→contentType": "text/html",
+  "97→files→0→index": 0,
+  "97→license": "https://market.oceanprotocol.com/terms",
+  "97→name": "Just a random test dataset",
+  "97→type": "dataset",
+  "98→algorithm→container→entrypoint": "node $ALGO",
+  "98→algorithm→container→image": "node",
+  "98→algorithm→container→tag": "latest",
+  "98→algorithm→format": "docker-image",
+  "98→algorithm→language": "JPG",
+  "98→algorithm→version": "0.1",
+  "98→author": "Heat&Cloud",
+  "98→dateCreated": "2021-08-31T11:15:44Z",
+  "98→datePublished": "2021-09-16T09:01:48Z",
+  "98→files→0→contentLength": "27043",
+  "98→files→0→contentType": "image/jpeg",
+  "98→files→0→index": 0,
+  "98→license": "https://market.oceanprotocol.com/terms",
+  "98→name": "Cloud & Heat - Heat Demand Prediction",
+  "98→type": "algorithm",
+  "99→algorithm→container→entrypoint": "node $ALGO",
+  "99→algorithm→container→image": "node",
+  "99→algorithm→container→tag": "latest",
+  "99→algorithm→format": "docker-image",
+  "99→algorithm→language": "JPG",
+  "99→algorithm→version": "0.1",
+  "99→author": "Heat&Cloud",
+  "99→dateCreated": "2021-08-31T11:14:38Z",
+  "99→datePublished": "2021-09-16T09:01:46Z",
+  "99→files→0→contentLength": "27043",
+  "99→files→0→contentType": "image/jpeg",
+  "99→files→0→index": 0,
+  "99→license": "https://market.oceanprotocol.com/terms",
+  "99→name": "Cloud & Heat - Heat Demand Prediction",
+  "99→type": "algorithm"
+}
