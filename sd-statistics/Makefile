@@ -4,13 +4,13 @@
 
 all: stats.json
 
-# flatten nested JSON (https://newbedev.com/flatten-nested-json-using-jq)
+# flatten nested JSON
 stats.json: entities.json
-	jq '. as $$in | reduce paths(scalars) as $$path ({}; . + { ($$path | map(tostring) | join("→")): $$in | getpath($$path) })' $< > $@
+	./flatten-nested.jq $< > $@
 
 # extract all entities from the catalogue
 entities.json: all.json
-	jq '[.hits.hits[]._source.service[0].attributes.main]' $< > $@
+	./extract-entities.jq $< > $@
 
 # get all metadata in the catalogue
 all.json:
