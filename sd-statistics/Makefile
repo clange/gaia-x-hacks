@@ -5,7 +5,7 @@
 all: stats.json
 
 stats.json: all.json
-	jq '.hits.hits[]._source.service[0].attributes.main' $< > $@
+	jq '[.hits.hits[]._source.service[0].attributes.main]' $< > $@
 
 all.json:
 	./get-sds-from-catalogue > $@
