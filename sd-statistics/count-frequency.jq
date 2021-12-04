@@ -10,4 +10,5 @@
                             . as $acc |
                             $acc +
                             (reduce $array[] as $m ({};
-                                                    . + ($acc[$m] as $count | {($m): ($count + 1)})))) ) }
+                                                    . + ($acc[$m] as $count | {($m): ($count + 1)}))))
+    | to_entries | sort | from_entries ) }
