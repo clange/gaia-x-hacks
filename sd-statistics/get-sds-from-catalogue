@@ -14,7 +14,7 @@ curl 'https://aquarius.delta-dao.com/api/v1/aquarius/assets/query' \
      -H 'content-type: application/json;charset=UTF-8' \
      -H 'referer: https://catalogue.minimal-gaia-x.eu/' \
      -H 'accept-language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7' \
-     --data-raw '{"from": 0, "query": {"bool": {"filter": [{"terms": {"chainId": [2021000]}} ]}}, "size": 100, "sort": {"created": "desc"}}' \
+     --data-raw '{"from": 0, "query": {"bool": {"filter": [{"terms": {"chainId": [2021000]}} ]}}, "size": 250, "sort": {"created": "desc"}}' \
      --compressed \
      --silent | \
     jq .
