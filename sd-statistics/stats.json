@@ -1,23 +1,23 @@
 {
   "key-frequencies": {
-    "algorithm→container→entrypoint": 64,
-    "algorithm→container→image": 64,
-    "algorithm→container→tag": 64,
-    "algorithm→format": 64,
-    "algorithm→language": 64,
-    "algorithm→version": 64,
-    "author": 172,
-    "dateCreated": 172,
-    "datePublished": 172,
+    "algorithm→container→entrypoint": 76,
+    "algorithm→container→image": 76,
+    "algorithm→container→tag": 76,
+    "algorithm→format": 76,
+    "algorithm→language": 76,
+    "algorithm→version": 76,
+    "author": 217,
+    "dateCreated": 217,
+    "datePublished": 217,
     "files→0→checksum": 13,
     "files→0→checksumType": 12,
     "files→0→compression": 1,
-    "files→0→contentLength": 172,
-    "files→0→contentType": 172,
+    "files→0→contentLength": 217,
+    "files→0→contentType": 217,
     "files→0→encoding": 1,
-    "files→0→index": 172,
-    "license": 172,
-    "name": 172,
-    "type": 172
+    "files→0→index": 217,
+    "license": 217,
+    "name": 217,
+    "type": 217
   }
 }
